@@ -1,0 +1,301 @@
+Month,Region,Product_Category,Target_Amount
+January,Bangkok,Electronics,275000
+January,Bangkok,Fashion,221000
+January,Bangkok,Home & Living,270000
+January,Bangkok,Beauty,467000
+January,Bangkok,Sports,471000
+January,Chiang Mai,Electronics,490000
+January,Chiang Mai,Fashion,383000
+January,Chiang Mai,Home & Living,354000
+January,Chiang Mai,Beauty,119000
+January,Chiang Mai,Sports,203000
+January,Phuket,Electronics,214000
+January,Phuket,Fashion,358000
+January,Phuket,Home & Living,405000
+January,Phuket,Beauty,152000
+January,Phuket,Sports,295000
+January,Khon Kaen,Electronics,210000
+January,Khon Kaen,Fashion,140000
+January,Khon Kaen,Home & Living,253000
+January,Khon Kaen,Beauty,213000
+January,Khon Kaen,Sports,199000
+January,Chonburi,Electronics,426000
+January,Chonburi,Fashion,405000
+January,Chonburi,Home & Living,374000
+January,Chonburi,Beauty,301000
+January,Chonburi,Sports,344000
+February,Bangkok,Electronics,450000
+February,Bangkok,Fashion,174000
+February,Bangkok,Home & Living,216000
+February,Bangkok,Beauty,242000
+February,Bangkok,Sports,193000
+February,Chiang Mai,Electronics,468000
+February,Chiang Mai,Fashion,452000
+February,Chiang Mai,Home & Living,251000
+February,Chiang Mai,Beauty,236000
+February,Chiang Mai,Sports,108000
+February,Phuket,Electronics,338000
+February,Phuket,Fashion,152000
+February,Phuket,Home & Living,353000
+February,Phuket,Beauty,329000
+February,Phuket,Sports,142000
+February,Khon Kaen,Electronics,399000
+February,Khon Kaen,Fashion,443000
+February,Khon Kaen,Home & Living,331000
+February,Khon Kaen,Beauty,63000
+February,Khon Kaen,Sports,422000
+February,Chonburi,Electronics,286000
+February,Chonburi,Fashion,412000
+February,Chonburi,Home & Living,157000
+February,Chonburi,Beauty,274000
+February,Chonburi,Sports,458000
+March,Bangkok,Electronics,199000
+March,Bangkok,Fashion,475000
+March,Bangkok,Home & Living,404000
+March,Bangkok,Beauty,85000
+March,Bangkok,Sports,469000
+March,Chiang Mai,Electronics,484000
+March,Chiang Mai,Fashion,457000
+March,Chiang Mai,Home & Living,457000
+March,Chiang Mai,Beauty,259000
+March,Chiang Mai,Sports,394000
+March,Phuket,Electronics,305000
+March,Phuket,Fashion,121000
+March,Phuket,Home & Living,374000
+March,Phuket,Beauty,205000
+March,Phuket,Sports,173000
+March,Khon Kaen,Electronics,179000
+March,Khon Kaen,Fashion,387000
+March,Khon Kaen,Home & Living,128000
+March,Khon Kaen,Beauty,416000
+March,Khon Kaen,Sports,266000
+March,Chonburi,Electronics,454000
+March,Chonburi,Fashion,243000
+March,Chonburi,Home & Living,87000
+March,Chonburi,Beauty,279000
+March,Chonburi,Sports,356000
+April,Bangkok,Electronics,295000
+April,Bangkok,Fashion,348000
+April,Bangkok,Home & Living,255000
+April,Bangkok,Beauty,323000
+April,Bangkok,Sports,309000
+April,Chiang Mai,Electronics,495000
+April,Chiang Mai,Fashion,404000
+April,Chiang Mai,Home & Living,264000
+April,Chiang Mai,Beauty,328000
+April,Chiang Mai,Sports,68000
+April,Phuket,Electronics,454000
+April,Phuket,Fashion,234000
+April,Phuket,Home & Living,409000
+April,Phuket,Beauty,465000
+April,Phuket,Sports,324000
+April,Khon Kaen,Electronics,354000
+April,Khon Kaen,Fashion,376000
+April,Khon Kaen,Home & Living,93000
+April,Khon Kaen,Beauty,105000
+April,Khon Kaen,Sports,443000
+April,Chonburi,Electronics,177000
+April,Chonburi,Fashion,386000
+April,Chonburi,Home & Living,390000
+April,Chonburi,Beauty,231000
+April,Chonburi,Sports,135000
+May,Bangkok,Electronics,381000
+May,Bangkok,Fashion,363000
+May,Bangkok,Home & Living,72000
+May,Bangkok,Beauty,338000
+May,Bangkok,Sports,380000
+May,Chiang Mai,Electronics,396000
+May,Chiang Mai,Fashion,381000
+May,Chiang Mai,Home & Living,254000
+May,Chiang Mai,Beauty,435000
+May,Chiang Mai,Sports,219000
+May,Phuket,Electronics,457000
+May,Phuket,Fashion,270000
+May,Phuket,Home & Living,104000
+May,Phuket,Beauty,55000
+May,Phuket,Sports,100000
+May,Khon Kaen,Electronics,182000
+May,Khon Kaen,Fashion,163000
+May,Khon Kaen,Home & Living,311000
+May,Khon Kaen,Beauty,432000
+May,Khon Kaen,Sports,315000
+May,Chonburi,Electronics,335000
+May,Chonburi,Fashion,347000
+May,Chonburi,Home & Living,402000
+May,Chonburi,Beauty,344000
+May,Chonburi,Sports,163000
+June,Bangkok,Electronics,278000
+June,Bangkok,Fashion,241000
+June,Bangkok,Home & Living,250000
+June,Bangkok,Beauty,287000
+June,Bangkok,Sports,445000
+June,Chiang Mai,Electronics,397000
+June,Chiang Mai,Fashion,351000
+June,Chiang Mai,Home & Living,403000
+June,Chiang Mai,Beauty,306000
+June,Chiang Mai,Sports,127000
+June,Phuket,Electronics,226000
+June,Phuket,Fashion,62000
+June,Phuket,Home & Living,297000
+June,Phuket,Beauty,103000
+June,Phuket,Sports,201000
+June,Khon Kaen,Electronics,262000
+June,Khon Kaen,Fashion,93000
+June,Khon Kaen,Home & Living,109000
+June,Khon Kaen,Beauty,475000
+June,Khon Kaen,Sports,423000
+June,Chonburi,Electronics,122000
+June,Chonburi,Fashion,228000
+June,Chonburi,Home & Living,209000
+June,Chonburi,Beauty,225000
+June,Chonburi,Sports,283000
+July,Bangkok,Electronics,451000
+July,Bangkok,Fashion,155000
+July,Bangkok,Home & Living,316000
+July,Bangkok,Beauty,297000
+July,Bangkok,Sports,228000
+July,Chiang Mai,Electronics,293000
+July,Chiang Mai,Fashion,99000
+July,Chiang Mai,Home & Living,274000
+July,Chiang Mai,Beauty,419000
+July,Chiang Mai,Sports,406000
+July,Phuket,Electronics,281000
+July,Phuket,Fashion,213000
+July,Phuket,Home & Living,84000
+July,Phuket,Beauty,203000
+July,Phuket,Sports,72000
+July,Khon Kaen,Electronics,464000
+July,Khon Kaen,Fashion,413000
+July,Khon Kaen,Home & Living,108000
+July,Khon Kaen,Beauty,61000
+July,Khon Kaen,Sports,484000
+July,Chonburi,Electronics,225000
+July,Chonburi,Fashion,381000
+July,Chonburi,Home & Living,105000
+July,Chonburi,Beauty,396000
+July,Chonburi,Sports,459000
+August,Bangkok,Electronics,134000
+August,Bangkok,Fashion,429000
+August,Bangkok,Home & Living,174000
+August,Bangkok,Beauty,314000
+August,Bangkok,Sports,139000
+August,Chiang Mai,Electronics,332000
+August,Chiang Mai,Fashion,131000
+August,Chiang Mai,Home & Living,219000
+August,Chiang Mai,Beauty,336000
+August,Chiang Mai,Sports,268000
+August,Phuket,Electronics,286000
+August,Phuket,Fashion,168000
+August,Phuket,Home & Living,458000
+August,Phuket,Beauty,257000
+August,Phuket,Sports,372000
+August,Khon Kaen,Electronics,144000
+August,Khon Kaen,Fashion,145000
+August,Khon Kaen,Home & Living,377000
+August,Khon Kaen,Beauty,386000
+August,Khon Kaen,Sports,271000
+August,Chonburi,Electronics,252000
+August,Chonburi,Fashion,64000
+August,Chonburi,Home & Living,427000
+August,Chonburi,Beauty,364000
+August,Chonburi,Sports,151000
+September,Bangkok,Electronics,280000
+September,Bangkok,Fashion,353000
+September,Bangkok,Home & Living,269000
+September,Bangkok,Beauty,249000
+September,Bangkok,Sports,52000
+September,Chiang Mai,Electronics,410000
+September,Chiang Mai,Fashion,159000
+September,Chiang Mai,Home & Living,155000
+September,Chiang Mai,Beauty,192000
+September,Chiang Mai,Sports,435000
+September,Phuket,Electronics,410000
+September,Phuket,Fashion,464000
+September,Phuket,Home & Living,457000
+September,Phuket,Beauty,82000
+September,Phuket,Sports,345000
+September,Khon Kaen,Electronics,102000
+September,Khon Kaen,Fashion,459000
+September,Khon Kaen,Home & Living,496000
+September,Khon Kaen,Beauty,324000
+September,Khon Kaen,Sports,145000
+September,Chonburi,Electronics,237000
+September,Chonburi,Fashion,216000
+September,Chonburi,Home & Living,150000
+September,Chonburi,Beauty,284000
+September,Chonburi,Sports,108000
+October,Bangkok,Electronics,184000
+October,Bangkok,Fashion,393000
+October,Bangkok,Home & Living,491000
+October,Bangkok,Beauty,300000
+October,Bangkok,Sports,320000
+October,Chiang Mai,Electronics,377000
+October,Chiang Mai,Fashion,210000
+October,Chiang Mai,Home & Living,355000
+October,Chiang Mai,Beauty,248000
+October,Chiang Mai,Sports,362000
+October,Phuket,Electronics,250000
+October,Phuket,Fashion,350000
+October,Phuket,Home & Living,108000
+October,Phuket,Beauty,228000
+October,Phuket,Sports,230000
+October,Khon Kaen,Electronics,482000
+October,Khon Kaen,Fashion,284000
+October,Khon Kaen,Home & Living,366000
+October,Khon Kaen,Beauty,138000
+October,Khon Kaen,Sports,466000
+October,Chonburi,Electronics,394000
+October,Chonburi,Fashion,411000
+October,Chonburi,Home & Living,459000
+October,Chonburi,Beauty,202000
+October,Chonburi,Sports,364000
+November,Bangkok,Electronics,352000
+November,Bangkok,Fashion,93000
+November,Bangkok,Home & Living,394000
+November,Bangkok,Beauty,118000
+November,Bangkok,Sports,210000
+November,Chiang Mai,Electronics,110000
+November,Chiang Mai,Fashion,172000
+November,Chiang Mai,Home & Living,206000
+November,Chiang Mai,Beauty,109000
+November,Chiang Mai,Sports,143000
+November,Phuket,Electronics,241000
+November,Phuket,Fashion,405000
+November,Phuket,Home & Living,122000
+November,Phuket,Beauty,311000
+November,Phuket,Sports,248000
+November,Khon Kaen,Electronics,264000
+November,Khon Kaen,Fashion,355000
+November,Khon Kaen,Home & Living,120000
+November,Khon Kaen,Beauty,344000
+November,Khon Kaen,Sports,246000
+November,Chonburi,Electronics,266000
+November,Chonburi,Fashion,145000
+November,Chonburi,Home & Living,299000
+November,Chonburi,Beauty,375000
+November,Chonburi,Sports,325000
+December,Bangkok,Electronics,405000
+December,Bangkok,Fashion,380000
+December,Bangkok,Home & Living,138000
+December,Bangkok,Beauty,334000
+December,Bangkok,Sports,135000
+December,Chiang Mai,Electronics,300000
+December,Chiang Mai,Fashion,197000
+December,Chiang Mai,Home & Living,121000
+December,Chiang Mai,Beauty,145000
+December,Chiang Mai,Sports,211000
+December,Phuket,Electronics,481000
+December,Phuket,Fashion,280000
+December,Phuket,Home & Living,367000
+December,Phuket,Beauty,77000
+December,Phuket,Sports,493000
+December,Khon Kaen,Electronics,233000
+December,Khon Kaen,Fashion,54000
+December,Khon Kaen,Home & Living,298000
+December,Khon Kaen,Beauty,119000
+December,Khon Kaen,Sports,149000
+December,Chonburi,Electronics,467000
+December,Chonburi,Fashion,246000
+December,Chonburi,Home & Living,337000
+December,Chonburi,Beauty,308000
+December,Chonburi,Sports,384000

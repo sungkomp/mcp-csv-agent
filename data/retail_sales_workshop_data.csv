@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Branch,Product_Category,Product_Name,Unit_Price,Quantity,Total_Price_Before_Disc,Discount_Amount,Net_Sales,Customer_Type,Payment_Method,Satisfaction_Score,Return_Flag
+TXN-20240090,1/1/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Cash,3,No
+TXN-20240474,1/1/2024,Khon Kaen,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,QR Code,5,No
+TXN-20240580,1/1/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Cash,5,No
+TXN-20240820,1/1/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,3,No
+TXN-20240834,1/1/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,5,No
+TXN-20240975,1/1/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,1250,23750,VIP,QR Code,5,No
+TXN-20241397,1/1/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,Cash,3,No
+TXN-20240066,1/2/2024,Phuket,Fashion,Denim Jeans,1200,2,2400,0,2400,Member,Credit Card,3,No
+TXN-20240080,1/2/2024,Khon Kaen,Home & Living,Desk Lamp,790,2,1580,79,1501,VIP,Credit Card,4,No
+TXN-20240436,1/2/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,Cash,5,No
+TXN-20241127,1/2/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,1,Yes
+TXN-20241230,1/2/2024,Bangkok Main,Fashion,Denim Jeans,1200,3,3600,0,3600,Regular,QR Code,4,No
+TXN-20241378,1/2/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,2,Yes
+TXN-20241493,1/2/2024,Khon Kaen,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,4,No
+TXN-20240749,1/3/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Credit Card,4,No
+TXN-20240791,1/3/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,2,No
+TXN-20241131,1/3/2024,Chiang Mai,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,Cash,1,No
+TXN-20241350,1/3/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,3,No
+TXN-20240324,1/4/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Cash,5,No
+TXN-20240338,1/4/2024,Phuket,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Credit Card,4,No
+TXN-20240495,1/4/2024,Khon Kaen,Electronics,Headphones Pro,5500,3,16500,0,16500,Regular,Credit Card,2,Yes
+TXN-20240057,1/5/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,0,18500,Member,QR Code,3,No
+TXN-20241342,1/5/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,3,No
+TXN-20240004,1/6/2024,Khon Kaen,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Credit Card,3,No
+TXN-20240247,1/6/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,3,No
+TXN-20241318,1/6/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240041,1/7/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,4,No
+TXN-20240449,1/7/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,5,No
+TXN-20240472,1/7/2024,Chiang Mai,Electronics,Smartphone X1,25000,2,50000,0,50000,Member,Cash,3,No
+TXN-20240471,1/8/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,Credit Card,5,No
+TXN-20240934,1/8/2024,Khon Kaen,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,QR Code,4,No
+TXN-20241474,1/8/2024,Bangkok Main,Home & Living,Air Purifier,4200,3,12600,0,12600,Member,Credit Card,2,No
+TXN-20240483,1/9/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Credit Card,3,No
+TXN-20240682,1/9/2024,Chiang Mai,Home & Living,Air Purifier,4200,3,12600,630,11970,VIP,QR Code,5,No
+TXN-20240866,1/9/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,5,No
+TXN-20240945,1/9/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,QR Code,4,No
+TXN-20240075,1/10/2024,Khon Kaen,Home & Living,Coffee Maker,3500,2,7000,0,7000,Member,Credit Card,1,No
+TXN-20240752,1/10/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,5,No
+TXN-20240616,1/11/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Member,Credit Card,1,No
+TXN-20240985,1/11/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,4,No
+TXN-20240065,1/12/2024,Bangkok Main,Fashion,Sneakers Run,2500,2,5000,250,4750,VIP,Cash,3,No
+TXN-20240745,1/12/2024,Chiang Mai,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Cash,4,No
+TXN-20240846,1/12/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,3,No
+TXN-20240897,1/12/2024,Phuket,Electronics,Laptop Pro 14,45000,5,225000,0,225000,Regular,Cash,5,No
+TXN-20240933,1/12/2024,Bangkok Main,Fashion,Leather Bag,3500,4,14000,0,14000,Regular,QR Code,4,No
+TXN-20241244,1/12/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Cash,5,No
+TXN-20240504,1/13/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,4,No
+TXN-20240213,1/14/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,2,Yes
+TXN-20240644,1/14/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,1250,23750,VIP,QR Code,4,No
+TXN-20240689,1/14/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,275,5225,VIP,QR Code,5,No
+TXN-20241003,1/14/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,5,No
+TXN-20240767,1/15/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,5,No
+TXN-20240251,1/16/2024,Phuket,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20240600,1/16/2024,Chiang Mai,Electronics,Smartphone X1,25000,5,125000,0,125000,Member,QR Code,3,No
+TXN-20240795,1/16/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,4,No
+TXN-20240811,1/16/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,5,No
+TXN-20240879,1/16/2024,Chiang Mai,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,QR Code,2,No
+TXN-20240007,1/17/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,5,No
+TXN-20240222,1/17/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,QR Code,4,No
+TXN-20240422,1/17/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,3,75000,0,75000,Regular,Credit Card,4,No
+TXN-20240568,1/17/2024,Bangkok Main,Home & Living,Coffee Maker,3500,5,17500,0,17500,Member,Credit Card,4,No
+TXN-20240575,1/17/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,4,No
+TXN-20240586,1/17/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,3,135000,0,135000,Regular,Cash,4,Yes
+TXN-20240610,1/17/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Member,Cash,3,No
+TXN-20241257,1/17/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,5,No
+TXN-20241343,1/17/2024,Chiang Mai,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Cash,5,No
+TXN-20241362,1/17/2024,Chiang Mai,Electronics,Tablet Air,18500,2,37000,0,37000,Regular,Credit Card,1,No
+TXN-20241401,1/17/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,5,No
+TXN-20240376,1/18/2024,Chiang Mai,Home & Living,Coffee Maker,3500,3,10500,0,10500,Regular,Cash,1,No
+TXN-20240558,1/18/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,5,No
+TXN-20240635,1/18/2024,Chiang Mai,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,3,No
+TXN-20240997,1/18/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,2250,42750,VIP,Cash,5,No
+TXN-20241485,1/18/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Cash,5,No
+TXN-20241492,1/18/2024,Bangkok Main,Electronics,Headphones Pro,5500,3,16500,0,16500,Regular,Cash,1,Yes
+TXN-20240408,1/19/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,5,No
+TXN-20240531,1/19/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,3,2370,0,2370,Regular,Cash,5,No
+TXN-20241489,1/19/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Cash,4,No
+TXN-20240085,1/20/2024,Khon Kaen,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,QR Code,4,No
+TXN-20240641,1/20/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,QR Code,3,No
+TXN-20240681,1/20/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Member,Cash,4,No
+TXN-20241082,1/20/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,175,3325,VIP,Credit Card,3,No
+TXN-20240285,1/21/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240692,1/21/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,3,55500,0,55500,Regular,QR Code,1,Yes
+TXN-20240904,1/22/2024,Khon Kaen,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,4,No
+TXN-20240040,1/23/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,4,No
+TXN-20240192,1/23/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,Credit Card,4,No
+TXN-20240545,1/23/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,5,No
+TXN-20240667,1/23/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,4,No
+TXN-20240708,1/23/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,QR Code,1,Yes
+TXN-20240262,1/24/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Member,Credit Card,4,No
+TXN-20241114,1/24/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,3,No
+TXN-20241383,1/24/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Member,QR Code,3,No
+TXN-20240935,1/25/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Cash,4,No
+TXN-20240943,1/25/2024,Chiang Mai,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Cash,3,No
+TXN-20241015,1/25/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,4,35600,0,35600,Member,Credit Card,2,Yes
+TXN-20241126,1/25/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,Cash,5,No
+TXN-20240072,1/26/2024,Chiang Mai,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,QR Code,3,No
+TXN-20240532,1/26/2024,Khon Kaen,Fashion,Formal Shirt,890,2,1780,89,1691,VIP,QR Code,3,No
+TXN-20240931,1/26/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,3,No
+TXN-20241275,1/26/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Credit Card,4,Yes
+TXN-20241395,1/26/2024,Khon Kaen,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,3,No
+TXN-20240002,1/27/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Member,Cash,5,No
+TXN-20240051,1/27/2024,Bangkok Main,Home & Living,Coffee Maker,3500,3,10500,0,10500,Regular,QR Code,4,No
+TXN-20241007,1/27/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,3,Yes
+TXN-20241468,1/27/2024,Phuket,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,4,No
+TXN-20240401,1/28/2024,Bangkok Main,Home & Living,Ceramic Vase,550,4,2200,0,2200,Regular,QR Code,4,No
+TXN-20240441,1/28/2024,Chiang Mai,Fashion,Denim Jeans,1200,3,3600,0,3600,Regular,QR Code,4,No
+TXN-20240452,1/28/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,4,No
+TXN-20240744,1/28/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,3,No
+TXN-20240956,1/28/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,2,2400,0,2400,Member,QR Code,5,No
+TXN-20240043,1/29/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,5,No
+TXN-20240125,1/29/2024,Khon Kaen,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,QR Code,4,No
+TXN-20240372,1/29/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,175,3325,VIP,Credit Card,3,No
+TXN-20241089,1/29/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,4,No
+TXN-20241367,1/29/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Cash,4,No
+TXN-20241372,1/29/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,4,No
+TXN-20240412,1/30/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Member,QR Code,3,No
+TXN-20240927,1/30/2024,Chiang Mai,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,QR Code,4,No
+TXN-20241043,1/30/2024,Phuket,Home & Living,Air Purifier,4200,2,8400,0,8400,Member,QR Code,4,No
+TXN-20240519,1/31/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,5,No
+TXN-20240686,1/31/2024,Khon Kaen,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,QR Code,5,No
+TXN-20240709,1/31/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,4,No
+TXN-20241032,1/31/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,0,17800,Member,Credit Card,4,No
+TXN-20240292,2/1/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,4,No
+TXN-20240655,2/1/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Credit Card,4,No
+TXN-20240917,2/1/2024,Bangkok Main,Electronics,Tablet Air,18500,3,55500,0,55500,Member,Credit Card,3,No
+TXN-20241344,2/2/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,Credit Card,1,Yes
+TXN-20241457,2/2/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,QR Code,4,No
+TXN-20241477,2/2/2024,Khon Kaen,Fashion,Denim Jeans,1200,2,2400,0,2400,Member,Cash,5,No
+TXN-20240978,2/3/2024,Chiang Mai,Home & Living,Coffee Maker,3500,2,7000,350,6650,VIP,Cash,5,No
+TXN-20241172,2/3/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,QR Code,4,No
+TXN-20241299,2/3/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,4,No
+TXN-20240141,2/4/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,QR Code,4,No
+TXN-20240335,2/4/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Credit Card,5,No
+TXN-20240627,2/4/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Member,QR Code,3,Yes
+TXN-20240831,2/4/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,Cash,3,No
+TXN-20241054,2/4/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,1,Yes
+TXN-20241090,2/4/2024,Khon Kaen,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Credit Card,4,No
+TXN-20240894,2/5/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Credit Card,1,Yes
+TXN-20240005,2/6/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,0,18500,Member,QR Code,4,No
+TXN-20240053,2/6/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,39.5,750.5,VIP,Cash,4,No
+TXN-20240508,2/6/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,5,No
+TXN-20241322,2/6/2024,Phuket,Home & Living,Ceramic Vase,550,3,1650,0,1650,Regular,Credit Card,3,No
+TXN-20240139,2/7/2024,Phuket,Electronics,Smartphone X1,25000,3,75000,0,75000,Regular,QR Code,3,No
+TXN-20240756,2/7/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,5,No
+TXN-20240853,2/7/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,60,1140,VIP,Cash,5,No
+TXN-20240895,2/7/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Credit Card,5,No
+TXN-20241049,2/7/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,1,2500,0,2500,Member,Cash,5,No
+TXN-20241051,2/7/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,4,No
+TXN-20241145,2/7/2024,Phuket,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Cash,4,No
+TXN-20241311,2/7/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Credit Card,5,No
+TXN-20240104,2/8/2024,Khon Kaen,Fashion,Leather Bag,3500,1,3500,0,3500,Member,QR Code,4,No
+TXN-20240497,2/8/2024,Khon Kaen,Home & Living,Desk Lamp,790,1,790,39.5,750.5,VIP,Cash,5,No
+TXN-20241171,2/8/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,QR Code,1,Yes
+TXN-20241441,2/8/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,4,No
+TXN-20240067,2/9/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,175,3325,VIP,QR Code,4,No
+TXN-20240673,2/9/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,4,No
+TXN-20241215,2/9/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,0,37000,Member,Cash,4,No
+TXN-20241451,2/9/2024,Bangkok Main,Electronics,Smartphone X1,25000,3,75000,0,75000,Member,QR Code,5,No
+TXN-20240006,2/10/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Cash,1,No
+TXN-20240117,2/10/2024,Khon Kaen,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Credit Card,1,No
+TXN-20240389,2/10/2024,Chiang Mai,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,5,No
+TXN-20241040,2/10/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,4,7200,0,7200,Member,Cash,3,No
+TXN-20240475,2/11/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,3,No
+TXN-20240595,2/11/2024,Bangkok Main,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,QR Code,4,No
+TXN-20240918,2/11/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Cash,4,No
+TXN-20241046,2/11/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,925,17575,VIP,Cash,4,No
+TXN-20241201,2/11/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Credit Card,1,Yes
+TXN-20241338,2/11/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,1,Yes
+TXN-20241463,2/11/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Credit Card,4,Yes
+TXN-20241092,2/12/2024,Bangkok Main,Electronics,Headphones Pro,5500,3,16500,0,16500,Regular,Credit Card,5,No
+TXN-20240203,2/13/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,1,1800,90,1710,VIP,Cash,4,No
+TXN-20240248,2/13/2024,Phuket,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,QR Code,3,No
+TXN-20240932,2/13/2024,Khon Kaen,Electronics,Tablet Air,18500,2,37000,0,37000,Member,QR Code,1,Yes
+TXN-20241081,2/13/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,1,Yes
+TXN-20241128,2/13/2024,Khon Kaen,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,QR Code,5,No
+TXN-20240230,2/14/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,0,1580,Member,Credit Card,5,No
+TXN-20240481,2/14/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Cash,5,No
+TXN-20240512,2/14/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Cash,5,No
+TXN-20241017,2/14/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,5,No
+TXN-20240137,2/15/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Cash,2,No
+TXN-20240215,2/15/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,Credit Card,4,No
+TXN-20240646,2/15/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,3,No
+TXN-20240653,2/15/2024,Khon Kaen,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,Cash,3,No
+TXN-20240880,2/15/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,3,No
+TXN-20240293,2/16/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240789,2/16/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,3,No
+TXN-20240823,2/16/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Cash,4,No
+TXN-20241410,2/16/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Credit Card,3,No
+TXN-20240415,2/17/2024,Chiang Mai,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,QR Code,2,No
+TXN-20240451,2/17/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Credit Card,4,No
+TXN-20240642,2/17/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,4,No
+TXN-20240666,2/17/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,4,74000,0,74000,Member,QR Code,3,No
+TXN-20240740,2/17/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Cash,4,No
+TXN-20240964,2/17/2024,Chiang Mai,Home & Living,Desk Lamp,790,4,3160,0,3160,Regular,Credit Card,5,No
+TXN-20241064,2/17/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Credit Card,4,No
+TXN-20240379,2/18/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,4,No
+TXN-20240543,2/18/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Cash,4,No
+TXN-20240746,2/18/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,QR Code,1,No
+TXN-20240808,2/18/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Credit Card,3,No
+TXN-20240900,2/18/2024,Bangkok Main,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Cash,4,No
+TXN-20241302,2/18/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,60,1140,VIP,QR Code,2,Yes
+TXN-20241349,2/18/2024,Bangkok Main,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,QR Code,4,No
+TXN-20240244,2/19/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Cash,4,No
+TXN-20240563,2/19/2024,Chiang Mai,Electronics,Smart Watch V2,8900,5,44500,0,44500,Member,Credit Card,2,No
+TXN-20241193,2/19/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,2,No
+TXN-20241276,2/19/2024,Phuket,Home & Living,Coffee Maker,3500,2,7000,0,7000,Member,Cash,3,No
+TXN-20241203,2/20/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Credit Card,3,No
+TXN-20241319,2/20/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Credit Card,4,No
+TXN-20240049,2/21/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Cash,4,No
+TXN-20240410,2/21/2024,Bangkok Main,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,QR Code,4,No
+TXN-20240576,2/21/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Credit Card,4,No
+TXN-20241025,2/21/2024,Bangkok Main,Fashion,Denim Jeans,1200,3,3600,0,3600,Member,Cash,4,No
+TXN-20241261,2/21/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,3,No
+TXN-20240014,2/22/2024,Chiang Mai,Electronics,Headphones Pro,5500,3,16500,825,15675,VIP,Cash,1,Yes
+TXN-20240202,2/22/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,1250,23750,VIP,QR Code,5,No
+TXN-20241330,2/22/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,4,No
+TXN-20241331,2/22/2024,Chiang Mai,Fashion,Leather Bag,3500,2,7000,0,7000,Member,Cash,4,No
+TXN-20240477,2/23/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Cash,4,No
+TXN-20240755,2/23/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,3,5400,0,5400,Regular,QR Code,4,No
+TXN-20241482,2/23/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Member,QR Code,5,No
+TXN-20240018,2/24/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,4,No
+TXN-20240517,2/24/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Credit Card,5,No
+TXN-20240573,2/24/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,4500,85500,VIP,Cash,4,No
+TXN-20241316,2/24/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,5,No
+TXN-20241370,2/24/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,4,No
+TXN-20240306,2/25/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,QR Code,4,No
+TXN-20240314,2/25/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,4,No
+TXN-20240392,2/25/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,0,37000,Regular,QR Code,1,Yes
+TXN-20240583,2/25/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,925,17575,VIP,Cash,2,No
+TXN-20240994,2/25/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,175,3325,VIP,QR Code,3,No
+TXN-20241290,2/25/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,5,No
+TXN-20240060,2/26/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,Credit Card,3,No
+TXN-20240231,2/26/2024,Khon Kaen,Home & Living,Ceramic Vase,550,2,1100,0,1100,Member,Credit Card,4,No
+TXN-20241443,2/26/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Credit Card,3,No
+TXN-20240669,2/27/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,3,No
+TXN-20240907,2/27/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,5,No
+TXN-20240952,2/27/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,4,No
+TXN-20241088,2/27/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,5,No
+TXN-20241109,2/27/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,QR Code,4,No
+TXN-20240243,2/28/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,0,11000,Member,Credit Card,1,Yes
+TXN-20240357,2/28/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,1250,23750,VIP,Credit Card,4,No
+TXN-20240398,2/28/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Credit Card,3,Yes
+TXN-20240421,2/28/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Member,Credit Card,4,No
+TXN-20240719,2/28/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Member,Credit Card,3,No
+TXN-20240938,2/28/2024,Chiang Mai,Fashion,Denim Jeans,1200,3,3600,0,3600,Regular,Cash,3,No
+TXN-20240077,2/29/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,1,Yes
+TXN-20240382,2/29/2024,Bangkok Main,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Credit Card,4,No
+TXN-20241057,2/29/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Cash,4,Yes
+TXN-20240218,3/1/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,3,No
+TXN-20240603,3/1/2024,Phuket,Home & Living,Bed Sheet Set,1800,3,5400,0,5400,Regular,Credit Card,4,No
+TXN-20240779,3/1/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,3,No
+TXN-20240940,3/1/2024,Bangkok Main,Fashion,Sneakers Run,2500,2,5000,0,5000,Member,Credit Card,4,No
+TXN-20240728,3/2/2024,Bangkok Main,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,QR Code,4,No
+TXN-20240784,3/2/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,5,No
+TXN-20241152,3/2/2024,Bangkok Main,Electronics,Tablet Air,18500,3,55500,0,55500,Regular,Credit Card,2,No
+TXN-20240055,3/3/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Cash,3,No
+TXN-20240533,3/3/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,4500,85500,VIP,Credit Card,5,No
+TXN-20241080,3/3/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,5,No
+TXN-20241297,3/3/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,Cash,3,No
+TXN-20241418,3/3/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,2,Yes
+TXN-20240205,3/4/2024,Phuket,Fashion,Formal Shirt,890,1,890,44.5,845.5,VIP,QR Code,2,No
+TXN-20240409,3/4/2024,Phuket,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,QR Code,5,No
+TXN-20240539,3/4/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20240675,3/4/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,4,No
+TXN-20240152,3/5/2024,Phuket,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,3,No
+TXN-20240167,3/5/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Cash,4,No
+TXN-20240194,3/5/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,1,790,0,790,Member,Cash,5,No
+TXN-20240705,3/5/2024,Phuket,Fashion,Formal Shirt,890,3,2670,0,2670,Member,Cash,4,No
+TXN-20241061,3/5/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,5,No
+TXN-20241072,3/5/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,QR Code,5,No
+TXN-20241076,3/5/2024,Khon Kaen,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,Credit Card,5,No
+TXN-20241174,3/5/2024,Bangkok Main,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,QR Code,1,No
+TXN-20241409,3/5/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Cash,5,No
+TXN-20241419,3/5/2024,Chiang Mai,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Cash,1,No
+TXN-20240182,3/6/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,2250,42750,VIP,Credit Card,1,Yes
+TXN-20240183,3/6/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,4,No
+TXN-20240255,3/6/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,0,11000,Regular,QR Code,3,Yes
+TXN-20240505,3/6/2024,Khon Kaen,Electronics,Smartphone X1,25000,3,75000,0,75000,Regular,Cash,4,Yes
+TXN-20240815,3/6/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Credit Card,4,No
+TXN-20240833,3/6/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Member,QR Code,4,No
+TXN-20241368,3/6/2024,Khon Kaen,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Cash,4,No
+TXN-20240282,3/7/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,Cash,4,No
+TXN-20240678,3/7/2024,Chiang Mai,Home & Living,Ceramic Vase,550,3,1650,0,1650,Regular,Cash,3,No
+TXN-20240693,3/7/2024,Phuket,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,5,No
+TXN-20241087,3/7/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,4,No
+TXN-20240186,3/8/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Credit Card,3,No
+TXN-20240216,3/8/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Cash,4,No
+TXN-20240498,3/8/2024,Khon Kaen,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Cash,3,No
+TXN-20240078,3/9/2024,Bangkok Main,Home & Living,Desk Lamp,790,3,2370,0,2370,Member,Credit Card,4,No
+TXN-20240087,3/9/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,5,No
+TXN-20240892,3/9/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,4,No
+TXN-20241195,3/9/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,1,Yes
+TXN-20240346,3/10/2024,Chiang Mai,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,QR Code,5,No
+TXN-20240484,3/10/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,QR Code,5,No
+TXN-20240768,3/10/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,4,No
+TXN-20241031,3/10/2024,Bangkok Main,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Credit Card,4,No
+TXN-20240377,3/11/2024,Phuket,Fashion,Denim Jeans,1200,3,3600,0,3600,Member,QR Code,1,No
+TXN-20240464,3/11/2024,Phuket,Home & Living,Air Purifier,4200,3,12600,0,12600,Regular,Credit Card,4,No
+TXN-20240630,3/11/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Credit Card,4,No
+TXN-20240725,3/11/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,QR Code,2,No
+TXN-20240788,3/11/2024,Khon Kaen,Home & Living,Coffee Maker,3500,2,7000,0,7000,Member,QR Code,4,No
+TXN-20240245,3/12/2024,Bangkok Main,Fashion,Formal Shirt,890,4,3560,178,3382,VIP,QR Code,5,No
+TXN-20240387,3/12/2024,Phuket,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,QR Code,3,No
+TXN-20240428,3/12/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,1,No
+TXN-20240812,3/12/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,4,No
+TXN-20240821,3/12/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,4,35600,0,35600,Regular,QR Code,2,Yes
+TXN-20241198,3/12/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,22.5,427.5,VIP,Cash,4,No
+TXN-20241066,3/13/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,1,2500,0,2500,Member,QR Code,5,No
+TXN-20240223,3/14/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,3,75000,0,75000,Member,Credit Card,4,No
+TXN-20240453,3/14/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,5,No
+TXN-20241108,3/14/2024,Phuket,Electronics,Headphones Pro,5500,2,11000,0,11000,Regular,Cash,2,Yes
+TXN-20241408,3/14/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,QR Code,2,Yes
+TXN-20240525,3/15/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Cash,4,No
+TXN-20241140,3/15/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,2250,42750,VIP,Cash,3,No
+TXN-20241164,3/15/2024,Phuket,Electronics,Laptop Pro 14,45000,3,135000,0,135000,Regular,QR Code,2,Yes
+TXN-20241266,3/15/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Cash,1,No
+TXN-20241287,3/15/2024,Khon Kaen,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,QR Code,4,No
+TXN-20241346,3/15/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,5,No
+TXN-20240356,3/16/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20240534,3/16/2024,Phuket,Electronics,Headphones Pro,5500,3,16500,0,16500,Regular,QR Code,4,No
+TXN-20240968,3/16/2024,Khon Kaen,Fashion,Sneakers Run,2500,3,7500,0,7500,Regular,Credit Card,4,No
+TXN-20240995,3/16/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,QR Code,4,No
+TXN-20240274,3/17/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,4,No
+TXN-20241028,3/17/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Member,Cash,4,No
+TXN-20241315,3/17/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,5,No
+TXN-20241472,3/17/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,22.5,427.5,VIP,QR Code,5,No
+TXN-20240019,3/18/2024,Khon Kaen,Fashion,Sneakers Run,2500,2,5000,0,5000,Member,Cash,2,No
+TXN-20240116,3/18/2024,Phuket,Fashion,Sneakers Run,2500,3,7500,0,7500,Member,Cash,4,No
+TXN-20240687,3/18/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Credit Card,1,Yes
+TXN-20241165,3/18/2024,Khon Kaen,Fashion,Formal Shirt,890,2,1780,0,1780,Member,QR Code,3,No
+TXN-20241323,3/18/2024,Bangkok Main,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,Credit Card,4,No
+TXN-20240212,3/19/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,3,Yes
+TXN-20240706,3/19/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Cash,3,No
+TXN-20240860,3/19/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,2,No
+TXN-20240951,3/19/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,4,No
+TXN-20241123,3/19/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,Credit Card,5,No
+TXN-20241146,3/19/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Member,Credit Card,5,No
+TXN-20241252,3/19/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Credit Card,5,No
+TXN-20241382,3/19/2024,Phuket,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,QR Code,3,No
+TXN-20241432,3/19/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,1,No
+TXN-20241476,3/19/2024,Chiang Mai,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Cash,3,No
+TXN-20240208,3/20/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Credit Card,5,No
+TXN-20240070,3/21/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,QR Code,3,No
+TXN-20240334,3/21/2024,Chiang Mai,Home & Living,Desk Lamp,790,3,2370,0,2370,Regular,QR Code,4,No
+TXN-20240920,3/21/2024,Phuket,Fashion,Summer T-Shirt,450,2,900,0,900,Member,QR Code,2,No
+TXN-20241390,3/21/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,3,No
+TXN-20240153,3/22/2024,Phuket,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Cash,4,No
+TXN-20240161,3/22/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,QR Code,5,No
+TXN-20241168,3/22/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Credit Card,4,No
+TXN-20241306,3/22/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,Credit Card,5,No
+TXN-20241353,3/22/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,QR Code,4,No
+TXN-20241364,3/22/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,Credit Card,5,No
+TXN-20240492,3/23/2024,Phuket,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,Cash,5,No
+TXN-20240611,3/23/2024,Khon Kaen,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,5,No
+TXN-20241085,3/23/2024,Khon Kaen,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,QR Code,1,Yes
+TXN-20240327,3/24/2024,Khon Kaen,Home & Living,Desk Lamp,790,2,1580,0,1580,Member,QR Code,5,No
+TXN-20240890,3/24/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,2,Yes
+TXN-20240976,3/24/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,90,1710,VIP,Cash,1,No
+TXN-20240296,3/25/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,445,8455,VIP,Cash,4,No
+TXN-20240569,3/26/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,3,No
+TXN-20240786,3/26/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,QR Code,4,No
+TXN-20240982,3/26/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,QR Code,5,No
+TXN-20241096,3/26/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,QR Code,5,No
+TXN-20241122,3/26/2024,Bangkok Main,Fashion,Summer T-Shirt,450,3,1350,0,1350,Regular,Credit Card,4,No
+TXN-20240012,3/27/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,3,No
+TXN-20240423,3/27/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,3,No
+TXN-20241033,3/27/2024,Khon Kaen,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Cash,1,No
+TXN-20241029,3/28/2024,Phuket,Electronics,Smartphone X1,25000,5,125000,0,125000,Member,Cash,2,No
+TXN-20241034,3/28/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,4,No
+TXN-20240988,3/29/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,4,No
+TXN-20241280,3/29/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,3,No
+TXN-20241313,3/29/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,4,No
+TXN-20240342,3/30/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,1,No
+TXN-20240694,3/30/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,Credit Card,4,No
+TXN-20240762,3/30/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,0,50000,Member,Cash,4,No
+TXN-20240998,3/30/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,5,No
+TXN-20241052,3/30/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,QR Code,4,No
+TXN-20241119,3/30/2024,Bangkok Main,Fashion,Summer T-Shirt,450,3,1350,0,1350,Regular,QR Code,4,No
+TXN-20241351,3/30/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Cash,3,No
+TXN-20241356,3/30/2024,Phuket,Electronics,Headphones Pro,5500,2,11000,0,11000,Regular,Credit Card,3,No
+TXN-20240236,3/31/2024,Phuket,Electronics,Tablet Air,18500,2,37000,0,37000,Regular,Credit Card,4,No
+TXN-20241231,3/31/2024,Khon Kaen,Electronics,Tablet Air,18500,2,37000,0,37000,Member,QR Code,1,No
+TXN-20240337,4/1/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Cash,5,No
+TXN-20240885,4/1/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Member,QR Code,4,No
+TXN-20241067,4/1/2024,Chiang Mai,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,QR Code,4,Yes
+TXN-20240383,4/2/2024,Phuket,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,Credit Card,3,No
+TXN-20240676,4/2/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Member,Cash,5,No
+TXN-20240727,4/2/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,Credit Card,4,No
+TXN-20240037,4/3/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Cash,4,No
+TXN-20240605,4/3/2024,Bangkok Main,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,Cash,2,Yes
+TXN-20240622,4/3/2024,Phuket,Electronics,Smart Watch V2,8900,2,17800,0,17800,Member,Cash,5,No
+TXN-20240865,4/3/2024,Phuket,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Cash,1,No
+TXN-20241042,4/3/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,4,No
+TXN-20240062,4/4/2024,Phuket,Fashion,Formal Shirt,890,2,1780,0,1780,Member,Credit Card,5,No
+TXN-20240735,4/4/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,3,No
+TXN-20241178,4/4/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Credit Card,4,No
+TXN-20240164,4/5/2024,Phuket,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,Credit Card,4,No
+TXN-20240290,4/5/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,2,37000,0,37000,Member,QR Code,5,No
+TXN-20240343,4/5/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,5,No
+TXN-20240424,4/5/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Cash,3,No
+TXN-20240437,4/5/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Credit Card,2,No
+TXN-20240868,4/5/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Member,QR Code,2,No
+TXN-20240987,4/5/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,3,No
+TXN-20241179,4/5/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,1,No
+TXN-20241429,4/5/2024,Chiang Mai,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,5,No
+TXN-20240844,4/6/2024,Phuket,Fashion,Leather Bag,3500,2,7000,350,6650,VIP,Cash,4,No
+TXN-20241045,4/6/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,1,No
+TXN-20241226,4/6/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,3,1650,0,1650,Regular,QR Code,1,Yes
+TXN-20241426,4/6/2024,Phuket,Home & Living,Coffee Maker,3500,3,10500,0,10500,Regular,Credit Card,4,No
+TXN-20240463,4/7/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,5,No
+TXN-20241143,4/7/2024,Bangkok Main,Fashion,Summer T-Shirt,450,4,1800,0,1800,Regular,QR Code,3,No
+TXN-20241228,4/7/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,4,No
+TXN-20240023,4/8/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Credit Card,4,No
+TXN-20240059,4/8/2024,Chiang Mai,Electronics,Headphones Pro,5500,3,16500,825,15675,VIP,Credit Card,5,No
+TXN-20240404,4/8/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,1,No
+TXN-20240738,4/8/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,3,No
+TXN-20240817,4/8/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,QR Code,3,No
+TXN-20241175,4/8/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Cash,2,No
+TXN-20241440,4/8/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,5,4450,0,4450,Member,Cash,5,No
+TXN-20240460,4/9/2024,Khon Kaen,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,QR Code,3,No
+TXN-20240515,4/9/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,QR Code,3,No
+TXN-20240549,4/9/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,3,2370,0,2370,Regular,Cash,5,No
+TXN-20240906,4/9/2024,Phuket,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,Cash,4,No
+TXN-20240910,4/9/2024,Chiang Mai,Fashion,Sneakers Run,2500,1,2500,125,2375,VIP,Cash,3,No
+TXN-20241360,4/9/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,175,3325,VIP,QR Code,4,No
+TXN-20240074,4/10/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,3,3600,0,3600,Regular,QR Code,5,No
+TXN-20241121,4/10/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Credit Card,4,No
+TXN-20241454,4/10/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,2,No
+TXN-20241223,4/11/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,2,5000,250,4750,VIP,Credit Card,3,No
+TXN-20241253,4/11/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,3,No
+TXN-20240106,4/12/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,4,No
+TXN-20240174,4/12/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,4,No
+TXN-20240298,4/12/2024,Phuket,Fashion,Summer T-Shirt,450,3,1350,67.5,1282.5,VIP,Credit Card,3,No
+TXN-20240664,4/12/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,3,Yes
+TXN-20240081,4/13/2024,Khon Kaen,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Credit Card,5,No
+TXN-20240177,4/13/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,5,No
+TXN-20240979,4/13/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,4,1800,0,1800,Member,Cash,5,No
+TXN-20240107,4/14/2024,Khon Kaen,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Cash,1,Yes
+TXN-20241036,4/14/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Cash,4,No
+TXN-20240287,4/15/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,90,1710,VIP,Credit Card,5,No
+TXN-20240303,4/16/2024,Phuket,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,Cash,4,No
+TXN-20240489,4/16/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,4,No
+TXN-20241438,4/16/2024,Phuket,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,Cash,5,No
+TXN-20240263,4/17/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,0,11000,Member,Cash,4,No
+TXN-20240537,4/17/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240645,4/17/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Credit Card,4,No
+TXN-20240922,4/17/2024,Phuket,Electronics,Tablet Air,18500,2,37000,0,37000,Regular,Cash,3,No
+TXN-20241413,4/17/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Cash,4,No
+TXN-20240698,4/18/2024,Phuket,Electronics,Smartphone X1,25000,5,125000,0,125000,Regular,Credit Card,3,No
+TXN-20240307,4/19/2024,Phuket,Fashion,Leather Bag,3500,1,3500,175,3325,VIP,Credit Card,4,No
+TXN-20240391,4/19/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Credit Card,3,No
+TXN-20241006,4/19/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,Credit Card,5,No
+TXN-20241139,4/19/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,1,No
+TXN-20240607,4/20/2024,Khon Kaen,Electronics,Headphones Pro,5500,2,11000,0,11000,Member,QR Code,2,Yes
+TXN-20240869,4/20/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Credit Card,5,No
+TXN-20240981,4/20/2024,Chiang Mai,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,4,No
+TXN-20241169,4/20/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,27.5,522.5,VIP,Credit Card,5,No
+TXN-20240491,4/21/2024,Khon Kaen,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,4,No
+TXN-20240608,4/22/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,3,12600,0,12600,Regular,Credit Card,4,No
+TXN-20240649,4/22/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,4,No
+TXN-20241077,4/23/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,Cash,3,No
+TXN-20241106,4/24/2024,Phuket,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,5,No
+TXN-20241455,4/24/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,QR Code,4,No
+TXN-20241158,4/25/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,5,No
+TXN-20241249,4/25/2024,Khon Kaen,Home & Living,Air Purifier,4200,3,12600,0,12600,Regular,QR Code,4,No
+TXN-20241498,4/25/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,3,No
+TXN-20240430,4/26/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,210,3990,VIP,Cash,5,No
+TXN-20240560,4/26/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,5,No
+TXN-20240713,4/26/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,3,No
+TXN-20240862,4/26/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,2500,47500,VIP,QR Code,5,No
+TXN-20241326,4/26/2024,Khon Kaen,Electronics,Smart Watch V2,8900,5,44500,0,44500,Member,Cash,4,No
+TXN-20240813,4/27/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,0,18500,Member,QR Code,2,No
+TXN-20241361,4/27/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,925,17575,VIP,Cash,4,No
+TXN-20240256,4/28/2024,Bangkok Main,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,4,No
+TXN-20240316,4/28/2024,Chiang Mai,Fashion,Sneakers Run,2500,3,7500,0,7500,Member,Credit Card,3,No
+TXN-20240606,4/28/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Credit Card,3,No
+TXN-20240674,4/28/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,4,No
+TXN-20240803,4/28/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,0,3500,Member,QR Code,5,No
+TXN-20240123,4/29/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,3,5400,0,5400,Regular,QR Code,4,No
+TXN-20240743,4/29/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,0,17800,Member,Cash,4,No
+TXN-20240774,4/29/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Cash,5,No
+TXN-20240015,4/30/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,1,Yes
+TXN-20240794,4/30/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Cash,1,No
+TXN-20240163,5/1/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,350,6650,VIP,QR Code,4,No
+TXN-20240809,5/1/2024,Phuket,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,Cash,4,No
+TXN-20240096,5/2/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,QR Code,3,No
+TXN-20240144,5/2/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,3,No
+TXN-20240650,5/2/2024,Chiang Mai,Electronics,Headphones Pro,5500,3,16500,0,16500,Regular,QR Code,1,Yes
+TXN-20240996,5/2/2024,Khon Kaen,Electronics,Smartphone X1,25000,2,50000,2500,47500,VIP,QR Code,1,No
+TXN-20241176,5/2/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Cash,4,No
+TXN-20241239,5/2/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,2,No
+TXN-20241450,5/2/2024,Phuket,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,Cash,3,No
+TXN-20240162,5/3/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Cash,3,Yes
+TXN-20240318,5/3/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,2,37000,0,37000,Regular,QR Code,4,No
+TXN-20240026,5/4/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Cash,1,No
+TXN-20240188,5/4/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,Cash,5,No
+TXN-20240265,5/4/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Credit Card,5,No
+TXN-20240633,5/4/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,3,No
+TXN-20240647,5/4/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Credit Card,4,No
+TXN-20240854,5/4/2024,Phuket,Electronics,Tablet Air,18500,2,37000,0,37000,Member,Credit Card,2,No
+TXN-20240887,5/4/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,4,100000,5000,95000,VIP,Cash,5,No
+TXN-20240899,5/4/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,1250,23750,VIP,Credit Card,1,Yes
+TXN-20240284,5/5/2024,Phuket,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,QR Code,4,No
+TXN-20240748,5/5/2024,Bangkok Main,Home & Living,Ceramic Vase,550,2,1100,0,1100,Member,Cash,5,No
+TXN-20241142,5/5/2024,Chiang Mai,Fashion,Sneakers Run,2500,3,7500,0,7500,Regular,Credit Card,3,No
+TXN-20241495,5/5/2024,Chiang Mai,Home & Living,Air Purifier,4200,2,8400,0,8400,Member,Credit Card,5,No
+TXN-20240021,5/6/2024,Bangkok Main,Fashion,Summer T-Shirt,450,3,1350,0,1350,Regular,QR Code,1,No
+TXN-20240200,5/6/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Cash,3,No
+TXN-20241490,5/6/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,5,No
+TXN-20240031,5/7/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,QR Code,4,No
+TXN-20240228,5/7/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Member,Cash,5,No
+TXN-20240359,5/7/2024,Phuket,Fashion,Sneakers Run,2500,2,5000,0,5000,Member,Credit Card,4,No
+TXN-20240487,5/7/2024,Bangkok Main,Electronics,Smart Watch V2,8900,4,35600,0,35600,Member,Cash,2,No
+TXN-20241070,5/7/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,1,Yes
+TXN-20240361,5/8/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20241059,5/8/2024,Chiang Mai,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,3,No
+TXN-20241181,5/8/2024,Phuket,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Cash,4,No
+TXN-20241241,5/8/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,5,No
+TXN-20241444,5/8/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,4,No
+TXN-20240490,5/10/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Cash,1,No
+TXN-20240928,5/10/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,QR Code,4,No
+TXN-20241107,5/10/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Cash,4,No
+TXN-20241166,5/10/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,QR Code,5,No
+TXN-20240276,5/11/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,Credit Card,5,No
+TXN-20240572,5/11/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,3,55500,0,55500,Member,QR Code,4,No
+TXN-20240792,5/11/2024,Bangkok Main,Fashion,Denim Jeans,1200,4,4800,0,4800,Member,Cash,4,No
+TXN-20240835,5/11/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,4,No
+TXN-20241148,5/11/2024,Khon Kaen,Fashion,Leather Bag,3500,4,14000,0,14000,Regular,QR Code,5,No
+TXN-20241242,5/11/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,5,No
+TXN-20240217,5/12/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,275,5225,VIP,QR Code,4,No
+TXN-20241116,5/12/2024,Khon Kaen,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,3,No
+TXN-20240375,5/13/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Cash,3,No
+TXN-20240402,5/13/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,0,50000,Member,Cash,4,No
+TXN-20240581,5/13/2024,Phuket,Fashion,Summer T-Shirt,450,3,1350,0,1350,Regular,QR Code,3,No
+TXN-20241467,5/13/2024,Phuket,Electronics,Laptop Pro 14,45000,3,135000,0,135000,Regular,QR Code,4,No
+TXN-20240003,5/14/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,3,No
+TXN-20240190,5/14/2024,Phuket,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Credit Card,2,No
+TXN-20240373,5/14/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,5,No
+TXN-20240538,5/14/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,QR Code,4,No
+TXN-20240921,5/14/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,5,No
+TXN-20240350,5/15/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,1,No
+TXN-20240702,5/15/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,5,No
+TXN-20241002,5/15/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,5,No
+TXN-20241170,5/15/2024,Bangkok Main,Electronics,Smart Watch V2,8900,3,26700,0,26700,Regular,Cash,4,No
+TXN-20241214,5/15/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,3,10500,0,10500,Member,Cash,1,No
+TXN-20241237,5/15/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,5,No
+TXN-20240095,5/16/2024,Khon Kaen,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,3,No
+TXN-20240252,5/16/2024,Khon Kaen,Electronics,Headphones Pro,5500,3,16500,0,16500,Member,Credit Card,5,No
+TXN-20240775,5/16/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Cash,3,Yes
+TXN-20240859,5/16/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Credit Card,4,No
+TXN-20241460,5/16/2024,Phuket,Electronics,Smartphone X1,25000,3,75000,0,75000,Regular,QR Code,5,No
+TXN-20240036,5/17/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Cash,1,No
+TXN-20240214,5/17/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,3,135000,0,135000,Regular,Cash,4,No
+TXN-20240562,5/17/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Cash,5,No
+TXN-20240587,5/17/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Member,QR Code,4,No
+TXN-20240983,5/17/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,5,No
+TXN-20241073,5/17/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,0,11000,Regular,Credit Card,4,No
+TXN-20240824,5/18/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Cash,3,No
+TXN-20240154,5/19/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,Credit Card,3,Yes
+TXN-20241062,5/19/2024,Bangkok Main,Fashion,Summer T-Shirt,450,2,900,45,855,VIP,Cash,5,No
+TXN-20241459,5/19/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,QR Code,4,No
+TXN-20240295,5/20/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,0,450,Member,QR Code,1,No
+TXN-20241156,5/20/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,4,No
+TXN-20241183,5/20/2024,Phuket,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,4,No
+TXN-20241202,5/20/2024,Phuket,Fashion,Formal Shirt,890,1,890,44.5,845.5,VIP,Cash,3,No
+TXN-20241480,5/21/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,3,No
+TXN-20240638,5/22/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,1,Yes
+TXN-20241288,5/22/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Credit Card,4,No
+TXN-20240135,5/23/2024,Bangkok Main,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Credit Card,3,No
+TXN-20240140,5/23/2024,Chiang Mai,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,5,No
+TXN-20240332,5/23/2024,Phuket,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,QR Code,3,Yes
+TXN-20240496,5/23/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Credit Card,2,Yes
+TXN-20240030,5/24/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Credit Card,4,No
+TXN-20241069,5/24/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,0,5500,Member,Credit Card,5,No
+TXN-20241200,5/24/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,5,No
+TXN-20241335,5/24/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,1,Yes
+TXN-20241478,5/24/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Cash,5,No
+TXN-20241263,5/25/2024,Phuket,Fashion,Formal Shirt,890,2,1780,0,1780,Member,Cash,5,No
+TXN-20241345,5/25/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,5,No
+TXN-20240355,5/27/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,Cash,1,No
+TXN-20240447,5/27/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,Credit Card,1,Yes
+TXN-20240609,5/27/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,4,No
+TXN-20240919,5/27/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Cash,4,No
+TXN-20240458,5/28/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,5,No
+TXN-20240556,5/28/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,4,No
+TXN-20241446,5/28/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,QR Code,4,No
+TXN-20241470,5/28/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,4,No
+TXN-20240394,5/29/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Cash,1,Yes
+TXN-20240889,5/29/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,QR Code,4,No
+TXN-20240941,5/29/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20241097,5/29/2024,Chiang Mai,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,QR Code,5,No
+TXN-20240226,5/30/2024,Bangkok Main,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,Cash,3,No
+TXN-20240536,5/30/2024,Phuket,Fashion,Summer T-Shirt,450,3,1350,0,1350,Regular,Credit Card,4,No
+TXN-20240590,5/30/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Cash,5,No
+TXN-20240717,5/30/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,5,No
+TXN-20240861,5/30/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Cash,4,No
+TXN-20240937,5/30/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Cash,5,No
+TXN-20241310,5/30/2024,Bangkok Main,Electronics,Smart Watch V2,8900,3,26700,0,26700,Regular,Cash,5,No
+TXN-20241329,5/30/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Cash,3,No
+TXN-20241423,5/30/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,QR Code,5,No
+TXN-20240465,5/31/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Credit Card,4,No
+TXN-20240554,5/31/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,3,No
+TXN-20240574,5/31/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,4,No
+TXN-20240614,5/31/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,QR Code,1,No
+TXN-20240731,5/31/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,1250,23750,VIP,QR Code,3,No
+TXN-20240955,5/31/2024,Bangkok Main,Fashion,Formal Shirt,890,3,2670,0,2670,Member,Credit Card,4,No
+TXN-20241325,5/31/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Member,QR Code,3,No
+TXN-20241333,5/31/2024,Chiang Mai,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Credit Card,5,No
+TXN-20240457,6/1/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,1,790,39.5,750.5,VIP,QR Code,1,No
+TXN-20240510,6/1/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Regular,Credit Card,5,No
+TXN-20240561,6/1/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,5,No
+TXN-20240771,6/1/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Regular,Credit Card,4,No
+TXN-20241404,6/1/2024,Khon Kaen,Fashion,Sneakers Run,2500,2,5000,750,4250,Member,Credit Card,3,No
+TXN-20240640,6/2/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,180,1020,Regular,QR Code,5,No
+TXN-20240715,6/2/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Member,Credit Card,2,Yes
+TXN-20240780,6/2/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240893,6/2/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,5,No
+TXN-20241030,6/2/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,QR Code,3,No
+TXN-20241115,6/2/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Cash,3,No
+TXN-20241486,6/2/2024,Khon Kaen,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,QR Code,5,No
+TXN-20240707,6/3/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,4,No
+TXN-20240237,6/4/2024,Khon Kaen,Fashion,Sneakers Run,2500,3,7500,1500,6000,VIP,Credit Card,1,No
+TXN-20240660,6/4/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Cash,3,No
+TXN-20241177,6/4/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,180,1020,Member,Cash,5,No
+TXN-20241407,6/4/2024,Bangkok Main,Fashion,Summer T-Shirt,450,3,1350,202.5,1147.5,Regular,Cash,1,No
+TXN-20240336,6/5/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,3,No
+TXN-20240557,6/5/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Cash,3,No
+TXN-20240690,6/6/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,5,No
+TXN-20240939,6/6/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,2,3600,180,3420,VIP,Cash,4,No
+TXN-20241340,6/6/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,525,2975,Member,Credit Card,4,No
+TXN-20240522,6/7/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,0,8900,Member,Cash,1,Yes
+TXN-20240726,6/7/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,Cash,1,Yes
+TXN-20241236,6/7/2024,Phuket,Electronics,Smart Watch V2,8900,3,26700,0,26700,Regular,Cash,2,Yes
+TXN-20240266,6/8/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Member,QR Code,3,No
+TXN-20240304,6/8/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,3,No
+TXN-20240469,6/8/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,5,No
+TXN-20240810,6/8/2024,Phuket,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Credit Card,3,No
+TXN-20241058,6/8/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,4,No
+TXN-20241153,6/8/2024,Chiang Mai,Fashion,Formal Shirt,890,2,1780,267,1513,Regular,Cash,4,No
+TXN-20241499,6/8/2024,Phuket,Fashion,Summer T-Shirt,450,2,900,135,765,Regular,QR Code,3,No
+TXN-20240241,6/9/2024,Phuket,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Credit Card,5,No
+TXN-20240450,6/9/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,1,550,0,550,Member,QR Code,4,No
+TXN-20240593,6/9/2024,Bangkok Main,Home & Living,Ceramic Vase,550,3,1650,0,1650,Regular,Credit Card,4,No
+TXN-20240632,6/9/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,2,5000,750,4250,Member,QR Code,5,No
+TXN-20240652,6/9/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Member,QR Code,3,No
+TXN-20241461,6/9/2024,Khon Kaen,Home & Living,Ceramic Vase,550,2,1100,0,1100,Member,QR Code,4,No
+TXN-20240076,6/10/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,0,18500,Member,QR Code,5,No
+TXN-20240305,6/10/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,4,No
+TXN-20240309,6/10/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,4,35600,0,35600,Regular,QR Code,4,No
+TXN-20240313,6/10/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,3,10500,0,10500,Regular,QR Code,4,No
+TXN-20240947,6/10/2024,Khon Kaen,Fashion,Leather Bag,3500,2,7000,1050,5950,Regular,Credit Card,4,No
+TXN-20240054,6/11/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,QR Code,4,No
+TXN-20240073,6/11/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,QR Code,2,Yes
+TXN-20240129,6/11/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,5,No
+TXN-20240842,6/11/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,375,2125,Regular,Cash,4,No
+TXN-20241075,6/11/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,Credit Card,4,No
+TXN-20241063,6/12/2024,Phuket,Fashion,Leather Bag,3500,5,17500,2625,14875,Member,QR Code,4,No
+TXN-20240369,6/13/2024,Chiang Mai,Fashion,Formal Shirt,890,2,1780,267,1513,Member,QR Code,3,No
+TXN-20240407,6/13/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,275,5225,VIP,Credit Card,3,Yes
+TXN-20240913,6/13/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Credit Card,3,No
+TXN-20241421,6/13/2024,Chiang Mai,Home & Living,Ceramic Vase,550,3,1650,82.5,1567.5,VIP,QR Code,4,No
+TXN-20240654,6/14/2024,Phuket,Fashion,Denim Jeans,1200,4,4800,720,4080,Regular,QR Code,2,No
+TXN-20240963,6/14/2024,Chiang Mai,Electronics,Headphones Pro,5500,2,11000,0,11000,Member,Credit Card,4,No
+TXN-20240999,6/14/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,5,No
+TXN-20241020,6/14/2024,Phuket,Home & Living,Ceramic Vase,550,4,2200,0,2200,Member,Cash,3,No
+TXN-20240345,6/15/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,2,37000,1850,35150,VIP,Credit Card,4,No
+TXN-20240683,6/15/2024,Bangkok Main,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Cash,3,No
+TXN-20241016,6/15/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,4,No
+TXN-20240567,6/16/2024,Khon Kaen,Home & Living,Desk Lamp,790,3,2370,0,2370,Member,Cash,5,No
+TXN-20240001,6/17/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,Cash,2,No
+TXN-20240259,6/17/2024,Phuket,Home & Living,Air Purifier,4200,4,16800,0,16800,Regular,QR Code,5,No
+TXN-20240277,6/17/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240149,6/18/2024,Bangkok Main,Fashion,Denim Jeans,1200,2,2400,360,2040,Regular,Credit Card,4,No
+TXN-20240172,6/18/2024,Khon Kaen,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Credit Card,5,No
+TXN-20240734,6/18/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,0,37000,Regular,QR Code,5,No
+TXN-20240990,6/18/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,2,5000,750,4250,Regular,Cash,5,No
+TXN-20240159,6/19/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,QR Code,5,No
+TXN-20240716,6/19/2024,Bangkok Main,Fashion,Formal Shirt,890,2,1780,267,1513,Member,Credit Card,5,No
+TXN-20240867,6/19/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Member,Cash,5,No
+TXN-20241056,6/19/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,3,135000,0,135000,Regular,Cash,5,No
+TXN-20240736,6/20/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,0,17800,Regular,Cash,5,No
+TXN-20241019,6/20/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,2,7000,1050,5950,Regular,QR Code,4,No
+TXN-20241267,6/20/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Cash,2,No
+TXN-20240258,6/21/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,Credit Card,2,Yes
+TXN-20240925,6/21/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,QR Code,4,No
+TXN-20241011,6/21/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Cash,3,No
+TXN-20241136,6/21/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,1,2500,375,2125,Regular,QR Code,1,No
+TXN-20241159,6/21/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,3,5400,0,5400,Member,Credit Card,4,No
+TXN-20241304,6/21/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,4,No
+TXN-20240288,6/22/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,Cash,4,No
+TXN-20240479,6/22/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,2,11000,0,11000,Regular,Cash,1,Yes
+TXN-20240584,6/22/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,275,5225,VIP,Cash,1,Yes
+TXN-20240710,6/22/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,180,1020,Regular,QR Code,4,No
+TXN-20240923,6/22/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,2,1780,267,1513,Regular,Cash,3,No
+TXN-20241291,6/22/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,0,90000,Member,QR Code,1,No
+TXN-20240083,6/23/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,0,18500,Regular,QR Code,5,No
+TXN-20240133,6/23/2024,Khon Kaen,Electronics,Smartphone X1,25000,4,100000,0,100000,Regular,Cash,5,No
+TXN-20240171,6/23/2024,Chiang Mai,Electronics,Headphones Pro,5500,2,11000,0,11000,Member,Cash,2,Yes
+TXN-20240312,6/23/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Member,Cash,4,No
+TXN-20240370,6/23/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,4,7200,0,7200,Regular,Cash,4,No
+TXN-20240875,6/23/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,QR Code,2,No
+TXN-20240176,6/24/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,0,8900,Regular,QR Code,5,No
+TXN-20240714,6/24/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,525,2975,Member,Cash,2,No
+TXN-20241303,6/24/2024,Khon Kaen,Fashion,Formal Shirt,890,2,1780,356,1424,VIP,Cash,4,No
+TXN-20241469,6/24/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,2,2400,480,1920,VIP,QR Code,4,No
+TXN-20240220,6/25/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,5,No
+TXN-20240322,6/25/2024,Phuket,Electronics,Tablet Air,18500,3,55500,0,55500,Regular,Credit Card,4,No
+TXN-20240426,6/25/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,Credit Card,1,No
+TXN-20241137,6/25/2024,Phuket,Fashion,Formal Shirt,890,2,1780,267,1513,Regular,Credit Card,3,No
+TXN-20241284,6/25/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,4,No
+TXN-20241379,6/25/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,445,8455,VIP,Cash,5,No
+TXN-20241411,6/25/2024,Khon Kaen,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Cash,4,No
+TXN-20241415,6/25/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Regular,Cash,3,No
+TXN-20240094,6/26/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,4,No
+TXN-20240300,6/26/2024,Bangkok Main,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,4,No
+TXN-20240796,6/26/2024,Bangkok Main,Electronics,Smartphone X1,25000,3,75000,3750,71250,VIP,Cash,1,Yes
+TXN-20241112,6/26/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,500,2000,VIP,Cash,5,No
+TXN-20240362,6/27/2024,Bangkok Main,Fashion,Sneakers Run,2500,3,7500,1125,6375,Regular,Credit Card,5,No
+TXN-20240381,6/27/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,QR Code,4,No
+TXN-20240639,6/27/2024,Phuket,Fashion,Formal Shirt,890,2,1780,267,1513,Regular,QR Code,5,No
+TXN-20241427,6/27/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,Cash,3,No
+TXN-20240197,6/28/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,0,1580,Member,QR Code,5,No
+TXN-20240396,6/28/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,375,2125,Member,Cash,4,No
+TXN-20240485,6/28/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,180,1020,Regular,QR Code,4,No
+TXN-20240542,6/28/2024,Phuket,Electronics,Laptop Pro 14,45000,5,225000,0,225000,Regular,Credit Card,4,No
+TXN-20241380,6/28/2024,Bangkok Main,Electronics,Smart Watch V2,8900,3,26700,0,26700,Regular,QR Code,4,No
+TXN-20241387,6/28/2024,Phuket,Home & Living,Desk Lamp,790,1,790,0,790,Member,Credit Card,2,No
+TXN-20240565,6/29/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,2,No
+TXN-20240874,6/29/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,0,5500,Regular,Credit Card,3,No
+TXN-20240930,6/29/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,0,45000,Regular,QR Code,3,No
+TXN-20240969,6/29/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,5,No
+TXN-20240207,6/30/2024,Chiang Mai,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,Credit Card,3,Yes
+TXN-20240466,6/30/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,0,25000,Regular,Credit Card,5,Yes
+TXN-20240701,6/30/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Regular,Credit Card,3,No
+TXN-20240901,6/30/2024,Bangkok Main,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,4,No
+TXN-20241053,6/30/2024,Chiang Mai,Fashion,Sneakers Run,2500,2,5000,750,4250,Regular,Cash,5,No
+TXN-20241212,6/30/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,0,50000,Regular,Credit Card,4,No
+TXN-20241402,6/30/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,1050,5950,Regular,QR Code,4,No
+TXN-20241466,6/30/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,133.5,756.5,Member,Cash,5,No
+TXN-20240500,7/1/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,3,No
+TXN-20240628,7/1/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,5196.79,44803.21,Member,Credit Card,4,No
+TXN-20240832,7/1/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,3,No
+TXN-20241035,7/1/2024,Khon Kaen,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,Cash,2,No
+TXN-20241439,7/1/2024,Phuket,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,QR Code,2,No
+TXN-20240042,7/2/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1171.52,7728.48,Regular,QR Code,4,No
+TXN-20240246,7/2/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,1097.02,4402.98,Regular,Credit Card,3,Yes
+TXN-20240411,7/2/2024,Bangkok Main,Fashion,Sneakers Run,2500,5,12500,0,12500,Member,QR Code,4,No
+TXN-20240699,7/2/2024,Bangkok Main,Fashion,Denim Jeans,1200,2,2400,0,2400,Member,Cash,3,No
+TXN-20240876,7/2/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,3,No
+TXN-20240110,7/3/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,5,No
+TXN-20240697,7/3/2024,Chiang Mai,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,4,No
+TXN-20241431,7/3/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,600.71,4899.29,Member,QR Code,4,No
+TXN-20240253,7/4/2024,Khon Kaen,Electronics,Headphones Pro,5500,2,11000,1942.67,9057.33,Member,Credit Card,4,No
+TXN-20240462,7/4/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,4725.63,20274.37,Member,Credit Card,4,No
+TXN-20240577,7/4/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,3,No
+TXN-20241487,7/4/2024,Khon Kaen,Home & Living,Ceramic Vase,550,3,1650,0,1650,Regular,QR Code,3,No
+TXN-20240283,7/5/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,596.97,4903.03,Member,Credit Card,2,No
+TXN-20240413,7/5/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,949.83,4550.17,Regular,Cash,1,No
+TXN-20240507,7/5/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,2,Yes
+TXN-20240636,7/5/2024,Phuket,Home & Living,Bed Sheet Set,1800,4,7200,0,7200,Regular,Credit Card,4,No
+TXN-20241246,7/6/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,3189.93,21810.07,Regular,QR Code,5,No
+TXN-20241258,7/6/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20241334,7/6/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,4,No
+TXN-20240032,7/7/2024,Phuket,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,5,No
+TXN-20240046,7/7/2024,Bangkok Main,Home & Living,Desk Lamp,790,4,3160,0,3160,Regular,QR Code,4,No
+TXN-20240399,7/7/2024,Phuket,Fashion,Leather Bag,3500,2,7000,0,7000,Member,QR Code,5,No
+TXN-20240816,7/7/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,5,No
+TXN-20240977,7/7/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,15765.78,74234.22,Member,Credit Card,1,No
+TXN-20240238,7/8/2024,Khon Kaen,Fashion,Leather Bag,3500,1,3500,0,3500,Member,QR Code,4,No
+TXN-20240390,7/8/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,594.94,4905.06,Regular,QR Code,5,No
+TXN-20240530,7/8/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,4115.47,20884.53,Member,Cash,3,No
+TXN-20240631,7/8/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,3,No
+TXN-20240801,7/8/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,5,No
+TXN-20241084,7/8/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,2417,16083,Member,Credit Card,4,No
+TXN-20241167,7/8/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Cash,3,No
+TXN-20240170,7/9/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6637.78,38362.22,Member,QR Code,4,No
+TXN-20240403,7/9/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,3472.11,15027.89,Member,Cash,3,No
+TXN-20241048,7/9/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,5,No
+TXN-20241227,7/9/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Member,QR Code,3,No
+TXN-20241251,7/9/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,2,1100,55,1045,VIP,QR Code,5,No
+TXN-20240524,7/10/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,QR Code,4,No
+TXN-20240662,7/10/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,4,No
+TXN-20240837,7/10/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Credit Card,3,No
+TXN-20240852,7/10/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,13580.84,76419.16,Member,Credit Card,4,No
+TXN-20241130,7/10/2024,Chiang Mai,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Cash,5,No
+TXN-20241403,7/10/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,1035.62,4464.38,Regular,Credit Card,2,Yes
+TXN-20240045,7/11/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6688.38,38311.62,Regular,Credit Card,4,No
+TXN-20240221,7/11/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,125,2375,VIP,Credit Card,5,No
+TXN-20240989,7/11/2024,Phuket,Electronics,Laptop Pro 14,45000,1,45000,7350.64,37649.36,Member,Cash,3,Yes
+TXN-20241018,7/11/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,5,No
+TXN-20241355,7/11/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,5281.44,44718.56,Regular,Credit Card,1,Yes
+TXN-20240100,7/12/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,3209.5,14590.5,Regular,Credit Card,3,No
+TXN-20240193,7/12/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,7028.23,42971.77,Regular,Credit Card,3,No
+TXN-20240323,7/12/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,2,No
+TXN-20241274,7/12/2024,Khon Kaen,Home & Living,Desk Lamp,790,1,790,0,790,Member,QR Code,2,No
+TXN-20240888,7/13/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,4,No
+TXN-20241093,7/13/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,QR Code,3,No
+TXN-20241192,7/13/2024,Phuket,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Cash,4,No
+TXN-20241396,7/13/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,1739.24,7160.76,Regular,Credit Card,3,Yes
+TXN-20241428,7/13/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,4,No
+TXN-20241435,7/13/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,QR Code,4,No
+TXN-20240064,7/14/2024,Khon Kaen,Electronics,Smart Watch V2,8900,3,26700,3955.41,22744.59,Regular,Cash,3,No
+TXN-20240509,7/14/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20241144,7/14/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,801.04,4698.96,Member,QR Code,1,Yes
+TXN-20241160,7/14/2024,Bangkok Main,Fashion,Sneakers Run,2500,3,7500,0,7500,Regular,QR Code,4,No
+TXN-20240440,7/15/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,4,No
+TXN-20240877,7/15/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,3097.03,21902.97,Regular,Cash,2,No
+TXN-20241220,7/15/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Credit Card,5,No
+TXN-20241365,7/15/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Cash,4,No
+TXN-20241473,7/15/2024,Chiang Mai,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,Cash,3,No
+TXN-20240168,7/16/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,7045.74,37954.26,Regular,QR Code,4,No
+TXN-20240397,7/16/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,4694.13,20305.87,Regular,QR Code,4,No
+TXN-20241286,7/16/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,4,No
+TXN-20240024,7/17/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,4,No
+TXN-20240105,7/17/2024,Phuket,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,4,No
+TXN-20240317,7/17/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Credit Card,3,No
+TXN-20240360,7/17/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1720.92,7179.08,Regular,Credit Card,5,No
+TXN-20240670,7/17/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,175,3325,VIP,QR Code,4,No
+TXN-20241305,7/17/2024,Chiang Mai,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,5,No
+TXN-20240112,7/18/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,2778.72,15721.28,Regular,Credit Card,4,No
+TXN-20240114,7/19/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,879.05,4620.95,Regular,Credit Card,4,No
+TXN-20240145,7/19/2024,Khon Kaen,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,2,No
+TXN-20240914,7/19/2024,Chiang Mai,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20241199,7/19/2024,Chiang Mai,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,QR Code,3,No
+TXN-20240029,7/20/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,7229.7,37770.3,Member,Cash,3,No
+TXN-20240189,7/20/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Cash,4,No
+TXN-20240329,7/20/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,4,No
+TXN-20240829,7/20/2024,Chiang Mai,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Cash,3,No
+TXN-20240959,7/20/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Credit Card,3,No
+TXN-20241392,7/20/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,3006.83,21993.17,Member,Credit Card,5,No
+TXN-20241465,7/20/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,6551.11,38448.89,Regular,QR Code,3,Yes
+TXN-20240071,7/22/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,3,No
+TXN-20240157,7/23/2024,Bangkok Main,Electronics,Smartphone X1,25000,5,125000,22459.16,102540.84,Member,Cash,3,Yes
+TXN-20240271,7/23/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,QR Code,5,No
+TXN-20240393,7/23/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,7273.52,29726.48,Member,Credit Card,4,No
+TXN-20240419,7/23/2024,Phuket,Electronics,Tablet Air,18500,2,37000,6383.96,30616.04,Regular,Credit Card,3,Yes
+TXN-20240623,7/23/2024,Khon Kaen,Home & Living,Ceramic Vase,550,1,550,0,550,Member,QR Code,3,No
+TXN-20240711,7/23/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,2,11000,1282.28,9717.72,Regular,QR Code,4,No
+TXN-20240898,7/23/2024,Phuket,Electronics,Tablet Air,18500,1,18500,4562.72,13937.28,VIP,Credit Card,4,No
+TXN-20241173,7/23/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,3,No
+TXN-20241206,7/23/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,4,No
+TXN-20241369,7/23/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,1000.88,4499.12,Member,Cash,3,No
+TXN-20241420,7/23/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,4,No
+TXN-20240008,7/24/2024,Phuket,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Cash,3,No
+TXN-20240371,7/24/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,3,No
+TXN-20240785,7/24/2024,Khon Kaen,Fashion,Denim Jeans,1200,3,3600,0,3600,Regular,Credit Card,5,No
+TXN-20240822,7/24/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,3,No
+TXN-20240270,7/25/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,5,No
+TXN-20240418,7/25/2024,Bangkok Main,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,Credit Card,4,No
+TXN-20240658,7/25/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Member,QR Code,4,No
+TXN-20241010,7/25/2024,Khon Kaen,Electronics,Smart Watch V2,8900,2,17800,3289.55,14510.45,Regular,Cash,4,No
+TXN-20240143,7/26/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,4,74000,8133.02,65866.98,Regular,QR Code,3,No
+TXN-20240219,7/26/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,5,92500,16455.17,76044.83,Regular,Cash,4,No
+TXN-20240548,7/26/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Member,QR Code,5,No
+TXN-20240871,7/26/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Credit Card,4,No
+TXN-20240234,7/27/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,3358.08,21641.92,Regular,QR Code,4,No
+TXN-20240286,7/27/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Cash,4,No
+TXN-20241014,7/27/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,15357.3,74642.7,Member,Cash,3,Yes
+TXN-20241113,7/27/2024,Phuket,Electronics,Laptop Pro 14,45000,1,45000,5121.5,39878.5,Member,Cash,3,No
+TXN-20241188,7/27/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,3247.58,15252.42,Regular,Cash,1,Yes
+TXN-20240308,7/28/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,2456.75,16043.25,Member,QR Code,3,No
+TXN-20240659,7/28/2024,Bangkok Main,Fashion,Formal Shirt,890,4,3560,0,3560,Regular,QR Code,4,No
+TXN-20240098,7/29/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,741.23,4758.77,Regular,Credit Card,4,No
+TXN-20240671,7/29/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Credit Card,4,No
+TXN-20240750,7/29/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,4,No
+TXN-20241233,7/29/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1056.76,7843.24,Regular,Cash,2,Yes
+TXN-20241430,7/29/2024,Phuket,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,Cash,1,No
+TXN-20240191,7/31/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Cash,3,No
+TXN-20240311,7/31/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6509.39,38490.61,Regular,QR Code,4,No
+TXN-20240427,7/31/2024,Phuket,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,Credit Card,5,No
+TXN-20240843,7/31/2024,Phuket,Electronics,Tablet Air,18500,2,37000,4412.59,32587.41,Regular,Cash,4,No
+TXN-20241422,7/31/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,2,No
+TXN-20240257,8/1/2024,Phuket,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,Cash,3,No
+TXN-20240302,8/1/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Cash,1,Yes
+TXN-20240848,8/1/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,689.9,4810.1,Regular,Cash,4,No
+TXN-20241377,8/1/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Member,QR Code,3,No
+TXN-20240022,8/2/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,953.77,4546.23,Member,QR Code,1,Yes
+TXN-20240612,8/2/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,4,No
+TXN-20240819,8/2/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,4,No
+TXN-20241320,8/2/2024,Chiang Mai,Fashion,Leather Bag,3500,5,17500,0,17500,Regular,Credit Card,5,No
+TXN-20241363,8/2/2024,Phuket,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,3,No
+TXN-20240010,8/3/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,4875.31,20124.69,Regular,Cash,2,Yes
+TXN-20240048,8/3/2024,Phuket,Electronics,Smartphone X1,25000,3,75000,12958.08,62041.92,VIP,QR Code,4,No
+TXN-20240349,8/3/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,4,No
+TXN-20240187,8/4/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,5,No
+TXN-20240206,8/4/2024,Phuket,Fashion,Leather Bag,3500,3,10500,525,9975,VIP,Cash,3,No
+TXN-20240742,8/4/2024,Chiang Mai,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20241337,8/4/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,5209.25,19790.75,VIP,Credit Card,3,No
+TXN-20240201,8/5/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,4765.15,20234.85,Regular,Credit Card,4,No
+TXN-20240506,8/5/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,5,No
+TXN-20240841,8/5/2024,Bangkok Main,Fashion,Formal Shirt,890,2,1780,0,1780,Member,Credit Card,5,No
+TXN-20241155,8/5/2024,Phuket,Electronics,Smart Watch V2,8900,3,26700,3323.98,23376.02,Regular,Cash,4,No
+TXN-20240325,8/6/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,5,No
+TXN-20240384,8/6/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Cash,5,No
+TXN-20240661,8/6/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,2,1780,0,1780,Member,QR Code,5,No
+TXN-20240942,8/6/2024,Chiang Mai,Home & Living,Air Purifier,4200,2,8400,0,8400,Member,Cash,5,No
+TXN-20241194,8/6/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,4,No
+TXN-20241366,8/6/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,1,No
+TXN-20241406,8/6/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,2124.54,8875.46,Regular,Cash,5,No
+TXN-20240061,8/7/2024,Phuket,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Cash,3,No
+TXN-20240297,8/7/2024,Phuket,Electronics,Smartphone X1,25000,4,100000,23716,76284,VIP,Cash,3,No
+TXN-20240378,8/7/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,4,No
+TXN-20240473,8/7/2024,Phuket,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,QR Code,4,No
+TXN-20240806,8/7/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,4,No
+TXN-20240967,8/7/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1688.82,7211.18,Regular,Credit Card,3,No
+TXN-20241196,8/7/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,8101.95,36898.05,Regular,QR Code,2,Yes
+TXN-20241264,8/7/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Credit Card,2,No
+TXN-20241336,8/7/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Credit Card,4,No
+TXN-20240016,8/8/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,5,No
+TXN-20240764,8/8/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,1062.33,4437.67,VIP,Credit Card,1,Yes
+TXN-20240385,8/9/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,3205.91,15294.09,Member,QR Code,4,No
+TXN-20241099,8/9/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20240084,8/10/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,4,No
+TXN-20240232,8/10/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,3709.52,21290.48,Member,Cash,5,No
+TXN-20240501,8/10/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,4,No
+TXN-20240442,8/11/2024,Bangkok Main,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,Cash,5,No
+TXN-20240468,8/11/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,776.17,4723.83,Regular,Credit Card,3,No
+TXN-20240546,8/11/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,3813.78,13986.22,VIP,QR Code,5,No
+TXN-20240570,8/11/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,981.22,4518.78,Member,Credit Card,4,No
+TXN-20240619,8/11/2024,Bangkok Main,Fashion,Summer T-Shirt,450,2,900,0,900,Regular,Credit Card,5,No
+TXN-20240909,8/11/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,2,37000,3946.61,33053.39,Regular,Cash,3,No
+TXN-20240911,8/11/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,786.15,4713.85,Member,QR Code,1,No
+TXN-20241234,8/11/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,5,Yes
+TXN-20241309,8/11/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,3,No
+TXN-20241416,8/11/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Regular,Cash,4,No
+TXN-20240092,8/12/2024,Bangkok Main,Home & Living,Coffee Maker,3500,3,10500,0,10500,Regular,Credit Card,4,No
+TXN-20240124,8/12/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,4,No
+TXN-20240380,8/12/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,1083.62,7816.38,Regular,Credit Card,5,No
+TXN-20241074,8/12/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Cash,5,No
+TXN-20241125,8/12/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,1764.76,7135.24,Member,Cash,4,No
+TXN-20241359,8/12/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,3039.29,15460.71,Regular,QR Code,4,No
+TXN-20240733,8/13/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,17573.52,72426.48,Member,QR Code,3,No
+TXN-20240864,8/13/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Cash,5,No
+TXN-20240881,8/13/2024,Phuket,Electronics,Laptop Pro 14,45000,1,45000,8708.45,36291.55,Member,Cash,3,No
+TXN-20240886,8/13/2024,Phuket,Home & Living,Desk Lamp,790,1,790,0,790,Member,Credit Card,5,No
+TXN-20240433,8/14/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,14440.49,75559.51,Regular,Credit Card,2,Yes
+TXN-20240523,8/14/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,QR Code,3,No
+TXN-20240175,8/15/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,3,5400,0,5400,Regular,Credit Card,3,No
+TXN-20240229,8/16/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,4,3560,0,3560,Regular,Credit Card,4,No
+TXN-20240908,8/16/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,3143.96,15356.04,Regular,Cash,4,No
+TXN-20240315,8/17/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,4,No
+TXN-20240388,8/17/2024,Phuket,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,QR Code,4,No
+TXN-20240547,8/17/2024,Phuket,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Credit Card,4,No
+TXN-20240929,8/17/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,803.95,4696.05,Regular,Cash,4,No
+TXN-20241250,8/17/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,9934.69,40065.31,Member,QR Code,5,Yes
+TXN-20240093,8/18/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,1,No
+TXN-20240160,8/18/2024,Phuket,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,1,No
+TXN-20240478,8/18/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,5,2750,137.5,2612.5,VIP,Credit Card,4,No
+TXN-20241021,8/20/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,3,No
+TXN-20241141,8/20/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Member,QR Code,3,No
+TXN-20241248,8/20/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,4849.15,40150.85,Regular,Credit Card,4,No
+TXN-20241256,8/20/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,2444.24,16055.76,Regular,Credit Card,4,No
+TXN-20241376,8/20/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,2,1780,0,1780,Member,Cash,1,No
+TXN-20241481,8/20/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,4,No
+TXN-20240341,8/21/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,989.55,7910.45,Member,QR Code,4,No
+TXN-20240765,8/21/2024,Bangkok Main,Home & Living,Ceramic Vase,550,3,1650,0,1650,Member,QR Code,2,No
+TXN-20240840,8/21/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,4,No
+TXN-20241001,8/21/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4716.38,20283.62,Regular,QR Code,2,Yes
+TXN-20241149,8/21/2024,Bangkok Main,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,3,No
+TXN-20241442,8/21/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Credit Card,4,No
+TXN-20240028,8/22/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,1299.92,9700.08,Regular,QR Code,2,Yes
+TXN-20240122,8/22/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240724,8/22/2024,Chiang Mai,Fashion,Denim Jeans,1200,3,3600,0,3600,Member,Credit Card,4,No
+TXN-20241247,8/22/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,QR Code,4,No
+TXN-20241273,8/22/2024,Phuket,Electronics,Smart Watch V2,8900,2,17800,2287.95,15512.05,Regular,Cash,3,Yes
+TXN-20241308,8/22/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,3,1350,0,1350,Regular,Credit Card,1,No
+TXN-20240776,8/23/2024,Chiang Mai,Fashion,Sneakers Run,2500,3,7500,0,7500,Regular,Cash,5,No
+TXN-20241445,8/23/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,2,90000,9867.19,80132.81,Regular,QR Code,4,No
+TXN-20241065,8/24/2024,Phuket,Electronics,Smart Watch V2,8900,2,17800,1901.61,15898.39,Regular,Cash,4,No
+TXN-20240541,8/25/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,0,2500,Member,QR Code,1,Yes
+TXN-20240799,8/25/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,1,No
+TXN-20241385,8/25/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,4,No
+TXN-20240033,8/26/2024,Bangkok Main,Electronics,Headphones Pro,5500,4,22000,4001.14,17998.86,Member,Credit Card,1,Yes
+TXN-20240181,8/26/2024,Bangkok Main,Fashion,Leather Bag,3500,5,17500,0,17500,Regular,QR Code,4,No
+TXN-20241352,8/26/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,2,7000,0,7000,Member,QR Code,5,No
+TXN-20240058,8/27/2024,Khon Kaen,Electronics,Tablet Air,18500,2,37000,6838.61,30161.39,Regular,Cash,4,No
+TXN-20240128,8/27/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,3061.01,14738.99,Regular,Cash,2,No
+TXN-20240267,8/27/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,QR Code,3,No
+TXN-20240435,8/27/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,14704.21,75295.79,Regular,Credit Card,5,No
+TXN-20240550,8/27/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,3567.93,14932.07,Regular,Cash,5,No
+TXN-20240957,8/27/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6638.3,38361.7,Regular,Credit Card,1,No
+TXN-20241071,8/27/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,2054.15,16445.85,Member,QR Code,3,No
+TXN-20240535,8/28/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,175,3325,VIP,QR Code,5,No
+TXN-20240540,8/28/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1414.32,7485.68,Regular,QR Code,5,No
+TXN-20240704,8/28/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,801.92,4698.08,Regular,Cash,4,No
+TXN-20240782,8/28/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,1724.57,7175.43,Member,Credit Card,3,No
+TXN-20241118,8/28/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,1636.56,7263.44,Regular,Credit Card,1,Yes
+TXN-20240386,8/29/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,QR Code,4,No
+TXN-20240494,8/29/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,5,No
+TXN-20240718,8/29/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,2,11000,1566.2,9433.8,Member,QR Code,2,No
+TXN-20240017,8/30/2024,Khon Kaen,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,QR Code,4,No
+TXN-20240578,8/30/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1039.38,7860.62,Regular,QR Code,4,No
+TXN-20241012,8/30/2024,Phuket,Electronics,Tablet Air,18500,1,18500,3698.11,14801.89,Member,QR Code,5,No
+TXN-20241400,8/30/2024,Khon Kaen,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,5,No
+TXN-20241425,8/30/2024,Phuket,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,3,No
+TXN-20240120,8/31/2024,Bangkok Sathorn,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,QR Code,4,No
+TXN-20240354,8/31/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,22.5,427.5,VIP,Credit Card,4,No
+TXN-20240986,8/31/2024,Chiang Mai,Fashion,Denim Jeans,1200,3,3600,0,3600,Regular,QR Code,4,No
+TXN-20241208,8/31/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,3,No
+TXN-20240480,9/1/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,1482.53,7417.47,Regular,Cash,5,No
+TXN-20240598,9/1/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,3971.86,21028.14,Member,QR Code,5,No
+TXN-20240604,9/1/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,1087.9,4412.1,Regular,QR Code,5,Yes
+TXN-20240770,9/1/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,3,135000,25702.53,109297.47,Regular,Credit Card,4,No
+TXN-20241120,9/1/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Credit Card,3,No
+TXN-20241197,9/1/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,4,22000,4057.17,17942.83,Regular,QR Code,2,No
+TXN-20241224,9/1/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,2101.96,15698.04,Regular,Credit Card,4,No
+TXN-20241254,9/1/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Cash,3,No
+TXN-20241484,9/1/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,2904.24,15595.76,Member,QR Code,4,Yes
+TXN-20240351,9/2/2024,Phuket,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,QR Code,5,No
+TXN-20240514,9/2/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,QR Code,5,No
+TXN-20240516,9/2/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,Cash,4,No
+TXN-20240814,9/2/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,8552.25,36447.75,Regular,Credit Card,4,No
+TXN-20241185,9/2/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,2,1100,0,1100,Member,QR Code,4,No
+TXN-20241204,9/2/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,1,550,27.5,522.5,VIP,QR Code,4,No
+TXN-20240518,9/3/2024,Chiang Mai,Home & Living,Air Purifier,4200,3,12600,0,12600,Regular,Cash,5,No
+TXN-20240615,9/3/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6963.59,38036.41,Regular,QR Code,4,No
+TXN-20240793,9/3/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,QR Code,5,No
+TXN-20240972,9/3/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4330.91,20669.09,Regular,Credit Card,3,Yes
+TXN-20241091,9/3/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,2764.67,22235.33,Member,Cash,4,No
+TXN-20241312,9/3/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1404.64,7495.36,Member,QR Code,5,No
+TXN-20241424,9/3/2024,Khon Kaen,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Cash,3,No
+TXN-20240688,9/4/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,6694.74,30305.26,Regular,Cash,5,No
+TXN-20240142,9/5/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Credit Card,5,No
+TXN-20240261,9/5/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,1708.01,7191.99,Member,Credit Card,4,No
+TXN-20240367,9/5/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,1,790,0,790,Member,Cash,4,No
+TXN-20240677,9/5/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,5,No
+TXN-20240971,9/5/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,628.59,4871.41,Regular,Cash,5,No
+TXN-20241038,9/5/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,2838.89,15661.11,Regular,Cash,3,No
+TXN-20241245,9/5/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,5170.02,44829.98,Member,Credit Card,5,No
+TXN-20240249,9/6/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,1036.35,7863.65,Regular,Credit Card,5,No
+TXN-20240470,9/6/2024,Bangkok Main,Fashion,Leather Bag,3500,3,10500,525,9975,VIP,Cash,4,No
+TXN-20240980,9/6/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,4483.4,20516.6,VIP,Credit Card,4,No
+TXN-20240559,9/7/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,3136.39,15363.61,Regular,QR Code,5,No
+TXN-20240594,9/7/2024,Khon Kaen,Fashion,Formal Shirt,890,1,890,44.5,845.5,VIP,QR Code,5,No
+TXN-20241268,9/7/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,5,No
+TXN-20240254,9/8/2024,Bangkok Main,Electronics,Tablet Air,18500,5,92500,18309.4,74190.6,Member,QR Code,3,Yes
+TXN-20240420,9/8/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,350,6650,VIP,Cash,5,No
+TXN-20240513,9/8/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,QR Code,3,No
+TXN-20240597,9/8/2024,Chiang Mai,Fashion,Denim Jeans,1200,3,3600,180,3420,VIP,Credit Card,2,No
+TXN-20240657,9/8/2024,Khon Kaen,Home & Living,Coffee Maker,3500,5,17500,0,17500,Regular,QR Code,5,No
+TXN-20240685,9/8/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,1072.11,4427.89,Member,Credit Card,5,Yes
+TXN-20240754,9/8/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Member,Cash,4,No
+TXN-20240902,9/8/2024,Phuket,Electronics,Headphones Pro,5500,3,16500,2944.83,13555.17,Regular,QR Code,3,Yes
+TXN-20241272,9/8/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,964.28,4535.72,Regular,Credit Card,3,Yes
+TXN-20241491,9/8/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,609.75,4890.25,Regular,Credit Card,2,Yes
+TXN-20240773,9/9/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,4550.48,20449.52,Regular,Credit Card,5,No
+TXN-20241289,9/9/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,10395.58,79604.42,Member,Credit Card,4,No
+TXN-20241332,9/9/2024,Bangkok Main,Fashion,Formal Shirt,890,3,2670,0,2670,Member,Credit Card,4,No
+TXN-20241371,9/9/2024,Phuket,Electronics,Tablet Air,18500,5,92500,10776.12,81723.88,Member,Cash,5,No
+TXN-20240855,9/10/2024,Bangkok Main,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,QR Code,5,No
+TXN-20241307,9/10/2024,Chiang Mai,Electronics,Headphones Pro,5500,3,16500,2060.33,14439.67,Regular,Cash,3,No
+TXN-20240454,9/11/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,3,No
+TXN-20240596,9/11/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Cash,5,No
+TXN-20240850,9/11/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,10392.59,79607.41,Regular,QR Code,5,No
+TXN-20241135,9/11/2024,Bangkok Main,Electronics,Tablet Air,18500,3,55500,7345.46,48154.54,Regular,Credit Card,1,Yes
+TXN-20241324,9/11/2024,Bangkok Main,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,5,No
+TXN-20241393,9/11/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,5484.66,39515.34,Regular,Credit Card,3,No
+TXN-20241452,9/11/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,1423.72,7476.28,Regular,QR Code,5,No
+TXN-20240936,9/12/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Cash,4,No
+TXN-20240950,9/12/2024,Khon Kaen,Fashion,Sneakers Run,2500,4,10000,0,10000,Member,Credit Card,4,No
+TXN-20240966,9/12/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,1065.72,7834.28,Regular,QR Code,4,No
+TXN-20241294,9/12/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,8327.04,36672.96,Member,Credit Card,1,Yes
+TXN-20241295,9/12/2024,Khon Kaen,Electronics,Smart Watch V2,8900,2,17800,2552.67,15247.33,Regular,QR Code,5,Yes
+TXN-20241374,9/12/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4451.73,20548.27,Regular,Credit Card,5,No
+TXN-20241405,9/12/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,18801.75,71198.25,VIP,QR Code,5,No
+TXN-20240838,9/14/2024,Bangkok Sathorn,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,5,No
+TXN-20241471,9/14/2024,Khon Kaen,Home & Living,Air Purifier,4200,2,8400,0,8400,Member,Cash,4,No
+TXN-20240195,9/15/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Cash,4,No
+TXN-20240352,9/15/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,4,No
+TXN-20241453,9/15/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,959.59,7940.41,Regular,QR Code,2,Yes
+TXN-20240679,9/16/2024,Chiang Mai,Home & Living,Air Purifier,4200,2,8400,0,8400,Member,Credit Card,2,No
+TXN-20241187,9/16/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,2,90000,10345.46,79654.54,Regular,QR Code,4,No
+TXN-20241357,9/16/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,22.5,427.5,VIP,Cash,3,No
+TXN-20241225,9/17/2024,Phuket,Electronics,Tablet Air,18500,2,37000,3765.67,33234.33,Regular,Cash,4,No
+TXN-20240227,9/18/2024,Chiang Mai,Electronics,Headphones Pro,5500,2,11000,1140.01,9859.99,Regular,QR Code,1,Yes
+TXN-20240250,9/18/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,7469.12,37530.88,Member,QR Code,3,No
+TXN-20240960,9/18/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,3528.77,14271.23,Regular,QR Code,4,No
+TXN-20241005,9/18/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,1543.82,9456.18,Regular,QR Code,4,No
+TXN-20241328,9/18/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,3,No
+TXN-20240310,9/19/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,11010.7,78989.3,Regular,QR Code,1,Yes
+TXN-20240696,9/19/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,QR Code,5,No
+TXN-20241009,9/19/2024,Chiang Mai,Fashion,Formal Shirt,890,2,1780,0,1780,Member,Credit Card,3,No
+TXN-20241117,9/19/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,8248.93,41751.07,VIP,Cash,1,Yes
+TXN-20240088,9/20/2024,Khon Kaen,Home & Living,Desk Lamp,790,3,2370,0,2370,Regular,Cash,1,No
+TXN-20240132,9/20/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,9827.4,40172.6,Regular,Credit Card,3,No
+TXN-20240233,9/20/2024,Phuket,Electronics,Tablet Air,18500,1,18500,2280.09,16219.91,Regular,Cash,5,No
+TXN-20240456,9/20/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1360.04,7539.96,Member,Credit Card,3,No
+TXN-20240571,9/20/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,8712.78,36287.22,Regular,QR Code,5,No
+TXN-20241041,9/20/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,738.84,4761.16,Regular,Cash,5,Yes
+TXN-20241205,9/20/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,3745.11,21254.89,Regular,Cash,5,No
+TXN-20241298,9/20/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,4,14000,0,14000,Member,Credit Card,3,No
+TXN-20240648,9/21/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,2,11000,1178.96,9821.04,Member,Cash,4,No
+TXN-20240665,9/21/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,QR Code,5,No
+TXN-20240797,9/21/2024,Khon Kaen,Electronics,Smartphone X1,25000,1,25000,4902.93,20097.07,Regular,Cash,4,No
+TXN-20241132,9/21/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,175,3325,VIP,Credit Card,5,No
+TXN-20240723,9/22/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,1021.51,4478.49,VIP,QR Code,4,No
+TXN-20241101,9/22/2024,Bangkok Main,Electronics,Smart Watch V2,8900,4,35600,5534.48,30065.52,Regular,QR Code,4,No
+TXN-20241110,9/22/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,4,No
+TXN-20240147,9/23/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Credit Card,4,No
+TXN-20240340,9/23/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,3,No
+TXN-20240488,9/23/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,3198.26,15301.74,Regular,Cash,4,No
+TXN-20240729,9/23/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Member,Credit Card,4,No
+TXN-20241079,9/23/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1605.51,7294.49,Regular,Cash,5,No
+TXN-20241102,9/23/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,562.14,4937.86,Regular,QR Code,1,Yes
+TXN-20241218,9/23/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,3,135000,18626.13,116373.87,Member,QR Code,4,No
+TXN-20240301,9/24/2024,Phuket,Fashion,Sneakers Run,2500,1,2500,0,2500,Member,QR Code,4,No
+TXN-20240566,9/25/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,1907.07,16592.93,Regular,Credit Card,4,No
+TXN-20240739,9/25/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,933.86,7966.14,Regular,Cash,2,Yes
+TXN-20240119,9/26/2024,Bangkok Main,Home & Living,Ceramic Vase,550,3,1650,0,1650,Member,Credit Card,4,No
+TXN-20240179,9/26/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Credit Card,2,No
+TXN-20240211,9/26/2024,Phuket,Electronics,Tablet Air,18500,3,55500,9271.12,46228.88,Member,Cash,4,No
+TXN-20240467,9/26/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,696.28,4803.72,Member,Cash,1,Yes
+TXN-20240511,9/26/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,3254.47,15245.53,Regular,Cash,2,Yes
+TXN-20240553,9/26/2024,Chiang Mai,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,Cash,4,No
+TXN-20240916,9/26/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Member,QR Code,3,No
+TXN-20240973,9/26/2024,Chiang Mai,Home & Living,Coffee Maker,3500,2,7000,350,6650,VIP,Cash,3,No
+TXN-20241111,9/26/2024,Chiang Mai,Electronics,Smart Watch V2,8900,3,26700,2694.09,24005.91,Regular,Cash,4,No
+TXN-20241235,9/26/2024,Phuket,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,QR Code,1,No
+TXN-20241483,9/26/2024,Phuket,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,Credit Card,4,No
+TXN-20240035,9/27/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,3507.14,21492.86,Member,Credit Card,3,No
+TXN-20240564,9/27/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,4,No
+TXN-20240781,9/27/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,2,1780,0,1780,Member,QR Code,3,No
+TXN-20240882,9/27/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,8457.01,36542.99,Member,Credit Card,4,No
+TXN-20241479,9/27/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,5,No
+TXN-20240103,9/28/2024,Phuket,Fashion,Formal Shirt,890,2,1780,0,1780,Member,Credit Card,3,No
+TXN-20240184,9/28/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,5,92500,19087.16,73412.84,VIP,Cash,5,No
+TXN-20240585,9/28/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,1,No
+TXN-20240905,9/28/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,17802.58,72197.42,Regular,Cash,3,No
+TXN-20241150,9/28/2024,Phuket,Electronics,Tablet Air,18500,3,55500,7460.92,48039.08,Regular,Cash,4,No
+TXN-20240130,9/29/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,5,No
+TXN-20240617,9/29/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,8327.45,36672.55,VIP,QR Code,2,Yes
+TXN-20241189,9/29/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,3,No
+TXN-20240805,9/30/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,4,No
+TXN-20240896,9/30/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,4,No
+TXN-20240027,10/1/2024,Khon Kaen,Electronics,Tablet Air,18500,2,37000,7370.11,29629.89,Member,Cash,4,No
+TXN-20240126,10/1/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,2880.21,15619.79,Regular,Credit Card,1,No
+TXN-20240747,10/1/2024,Phuket,Home & Living,Ceramic Vase,550,3,1650,0,1650,Regular,Cash,4,No
+TXN-20240751,10/1/2024,Bangkok Main,Home & Living,Coffee Maker,3500,3,10500,0,10500,Member,QR Code,4,No
+TXN-20240807,10/1/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,16470.69,73529.31,Member,Cash,5,No
+TXN-20241068,10/1/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,QR Code,3,No
+TXN-20241488,10/1/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,5538.39,44461.61,Regular,Cash,2,Yes
+TXN-20240348,10/2/2024,Khon Kaen,Electronics,Smartphone X1,25000,3,75000,10703.09,64296.91,Regular,Credit Card,1,No
+TXN-20240961,10/2/2024,Bangkok Main,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,Cash,4,No
+TXN-20241186,10/2/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,6833.47,38166.53,VIP,Cash,3,No
+TXN-20240146,10/3/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,5,No
+TXN-20240629,10/3/2024,Chiang Mai,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,4,No
+TXN-20240722,10/3/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,989.21,4510.79,Member,Cash,1,Yes
+TXN-20241103,10/3/2024,Phuket,Electronics,Smartphone X1,25000,2,50000,7248.09,42751.91,Member,QR Code,5,No
+TXN-20241217,10/3/2024,Bangkok Main,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Credit Card,3,No
+TXN-20240050,10/4/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,3370.33,15129.67,Regular,QR Code,3,No
+TXN-20240118,10/4/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4406.72,20593.28,Member,Credit Card,4,No
+TXN-20240366,10/4/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,2,7000,0,7000,Regular,QR Code,5,No
+TXN-20240526,10/4/2024,Phuket,Electronics,Tablet Air,18500,2,37000,6867.71,30132.29,Regular,QR Code,3,No
+TXN-20241449,10/4/2024,Khon Kaen,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Cash,5,No
+TXN-20240599,10/5/2024,Khon Kaen,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,5,No
+TXN-20240444,10/6/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,QR Code,2,No
+TXN-20240700,10/6/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,859.57,4640.43,VIP,Cash,1,Yes
+TXN-20240856,10/6/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,3,No
+TXN-20241013,10/6/2024,Khon Kaen,Electronics,Smartphone X1,25000,5,125000,16846.63,108153.37,Regular,Credit Card,3,No
+TXN-20241259,10/6/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,QR Code,4,No
+TXN-20240432,10/7/2024,Chiang Mai,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,3,No
+TXN-20240529,10/7/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,4,10000,0,10000,Member,QR Code,4,No
+TXN-20240552,10/7/2024,Chiang Mai,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,3,No
+TXN-20240068,10/8/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,3365.34,15134.66,Regular,Credit Card,3,Yes
+TXN-20240347,10/8/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,6018.77,30981.23,Regular,Credit Card,4,No
+TXN-20240883,10/8/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Credit Card,3,No
+TXN-20240804,10/9/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6004.19,38995.81,Member,QR Code,4,No
+TXN-20241434,10/9/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,8294.46,36705.54,Regular,Cash,1,Yes
+TXN-20240225,10/10/2024,Bangkok Main,Home & Living,Desk Lamp,790,2,1580,79,1501,VIP,Cash,5,No
+TXN-20240527,10/10/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,11633.74,78366.26,Regular,QR Code,1,Yes
+TXN-20240818,10/10/2024,Khon Kaen,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,4,No
+TXN-20241180,10/10/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,5,No
+TXN-20241190,10/10/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,5,No
+TXN-20240289,10/11/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,983.16,7916.84,Regular,QR Code,4,No
+TXN-20241044,10/11/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,9283.03,80716.97,Regular,QR Code,1,Yes
+TXN-20241050,10/11/2024,Khon Kaen,Electronics,Smartphone X1,25000,2,50000,6711.41,43288.59,Regular,QR Code,5,No
+TXN-20241222,10/11/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,5997.05,19002.95,VIP,Credit Card,1,Yes
+TXN-20240280,10/12/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,12088.66,77911.34,Regular,Cash,4,No
+TXN-20240800,10/12/2024,Khon Kaen,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,Credit Card,4,No
+TXN-20241260,10/12/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,3,5400,0,5400,Regular,Cash,5,No
+TXN-20241500,10/12/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,4,No
+TXN-20240358,10/13/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,8936.81,36063.19,Regular,Cash,3,No
+TXN-20240579,10/13/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,9942.2,80057.8,Regular,QR Code,4,No
+TXN-20240757,10/13/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,8583.23,41416.77,Regular,Credit Card,5,No
+TXN-20240924,10/13/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,1085.37,4414.63,Regular,QR Code,4,No
+TXN-20241216,10/13/2024,Khon Kaen,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Credit Card,5,No
+TXN-20240400,10/14/2024,Bangkok Main,Fashion,Sneakers Run,2500,3,7500,0,7500,Regular,QR Code,5,No
+TXN-20241098,10/14/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,1,No
+TXN-20241157,10/14/2024,Khon Kaen,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,3,No
+TXN-20241341,10/14/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,9317.77,40682.23,VIP,QR Code,2,No
+TXN-20240102,10/15/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,7417.84,37582.16,Regular,QR Code,1,No
+TXN-20240273,10/15/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,2,37000,7063.83,29936.17,Regular,QR Code,5,No
+TXN-20240790,10/15/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,1156.28,7743.72,Regular,Credit Card,1,No
+TXN-20240826,10/15/2024,Khon Kaen,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,Credit Card,5,No
+TXN-20241104,10/15/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,4,No
+TXN-20241182,10/15/2024,Chiang Mai,Electronics,Headphones Pro,5500,4,22000,3666.26,18333.74,Member,Credit Card,3,Yes
+TXN-20240239,10/16/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,3,2670,0,2670,Regular,Cash,5,No
+TXN-20241184,10/16/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,2,1100,0,1100,Member,Credit Card,3,No
+TXN-20241494,10/16/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,3189.84,15310.16,Regular,Credit Card,5,No
+TXN-20240108,10/17/2024,Chiang Mai,Home & Living,Coffee Maker,3500,2,7000,350,6650,VIP,Credit Card,3,No
+TXN-20240476,10/17/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,7295.02,42704.98,Regular,Credit Card,2,Yes
+TXN-20240847,10/18/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,8098.88,28901.12,VIP,Cash,4,No
+TXN-20241037,10/18/2024,Chiang Mai,Electronics,Smart Watch V2,8900,3,26700,3940.57,22759.43,Member,Credit Card,2,Yes
+TXN-20241105,10/18/2024,Phuket,Electronics,Headphones Pro,5500,2,11000,1269.92,9730.08,Regular,Cash,1,Yes
+TXN-20241281,10/18/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,QR Code,4,No
+TXN-20240127,10/19/2024,Chiang Mai,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,QR Code,5,No
+TXN-20240374,10/19/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,697.69,4802.31,Member,QR Code,3,Yes
+TXN-20241278,10/19/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,923.47,4576.53,Regular,QR Code,1,Yes
+TXN-20240121,10/20/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,4,22000,2753,19247,Member,Cash,4,No
+TXN-20241496,10/20/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,7029.59,37970.41,Regular,Cash,4,No
+TXN-20240069,10/21/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,4554,40446,Regular,Credit Card,1,Yes
+TXN-20240178,10/21/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,7182.97,37817.03,Member,Cash,5,No
+TXN-20240264,10/21/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,2,17800,2593.95,15206.05,Regular,QR Code,2,Yes
+TXN-20240429,10/21/2024,Chiang Mai,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,3,No
+TXN-20240787,10/21/2024,Bangkok Main,Fashion,Denim Jeans,1200,2,2400,0,2400,Member,Cash,4,No
+TXN-20240827,10/21/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Credit Card,1,No
+TXN-20241039,10/21/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,2,17800,1794.72,16005.28,Member,Cash,3,No
+TXN-20241456,10/21/2024,Phuket,Electronics,Smart Watch V2,8900,3,26700,3199.05,23500.95,Member,Credit Card,3,No
+TXN-20241497,10/21/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,Cash,3,No
+TXN-20240165,10/22/2024,Phuket,Electronics,Tablet Air,18500,1,18500,2421.21,16078.79,Regular,Cash,5,No
+TXN-20240520,10/22/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,3,5400,270,5130,VIP,QR Code,2,No
+TXN-20240592,10/22/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,7294.78,37705.22,Regular,QR Code,5,No
+TXN-20240025,10/23/2024,Phuket,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,5,No
+TXN-20240039,10/23/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,3545.82,14954.18,Member,Cash,5,No
+TXN-20240136,10/23/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,1441.12,7458.88,Member,Credit Card,1,No
+TXN-20240319,10/23/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Cash,5,No
+TXN-20240656,10/23/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Cash,2,No
+TXN-20241229,10/23/2024,Khon Kaen,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,3,No
+TXN-20241448,10/23/2024,Phuket,Electronics,Smart Watch V2,8900,3,26700,3944.49,22755.51,Regular,QR Code,4,No
+TXN-20240443,10/24/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,965.14,4534.86,Regular,Credit Card,2,No
+TXN-20241207,10/24/2024,Phuket,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,2,No
+TXN-20241321,10/24/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,5464.78,39535.22,Regular,Cash,5,No
+TXN-20241373,10/24/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,90,1710,VIP,QR Code,3,No
+TXN-20241458,10/24/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,3,2370,0,2370,Member,Cash,4,No
+TXN-20240210,10/25/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,5,225000,31358.05,193641.95,Member,Cash,4,No
+TXN-20240445,10/25/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Cash,5,No
+TXN-20241296,10/25/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,2,1580,0,1580,Member,Cash,4,No
+TXN-20241437,10/25/2024,Bangkok Main,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,QR Code,3,Yes
+TXN-20240079,10/26/2024,Bangkok Sathorn,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,Cash,3,No
+TXN-20240086,10/26/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,3625.61,14874.39,Regular,Cash,4,No
+TXN-20240278,10/26/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,8521.17,36478.83,Regular,Cash,5,No
+TXN-20240414,10/26/2024,Phuket,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,QR Code,4,No
+TXN-20240446,10/26/2024,Khon Kaen,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,QR Code,3,No
+TXN-20240503,10/26/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,2253.53,16246.47,Regular,Cash,2,No
+TXN-20240753,10/26/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,4184.65,14315.35,VIP,QR Code,4,No
+TXN-20240056,10/27/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,1775.01,7124.99,Regular,QR Code,3,No
+TXN-20240235,10/27/2024,Phuket,Fashion,Denim Jeans,1200,1,1200,0,1200,Regular,QR Code,3,No
+TXN-20240589,10/27/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,3244.4,21755.6,Regular,QR Code,5,No
+TXN-20240836,10/27/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,6852.03,38147.97,Regular,QR Code,4,No
+TXN-20240949,10/27/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,4,No
+TXN-20241255,10/27/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,QR Code,1,No
+TXN-20241163,10/28/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,QR Code,4,No
+TXN-20241354,10/28/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,598.93,4901.07,Member,Credit Card,5,No
+TXN-20240099,10/29/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,3035.1,15464.9,Regular,QR Code,3,No
+TXN-20240364,10/29/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,1613.44,7286.56,Member,Credit Card,2,Yes
+TXN-20240712,10/29/2024,Bangkok Main,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,Credit Card,4,No
+TXN-20240720,10/29/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,2630.68,22369.32,Member,Credit Card,2,Yes
+TXN-20240291,10/30/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1168.27,7731.73,Member,Credit Card,4,No
+TXN-20240299,10/30/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Cash,3,No
+TXN-20240368,10/30/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,4,74000,14489.5,59510.5,Regular,Credit Card,1,No
+TXN-20240651,10/30/2024,Chiang Mai,Electronics,Headphones Pro,5500,2,11000,1340.92,9659.08,Regular,QR Code,1,Yes
+TXN-20241124,10/30/2024,Bangkok Main,Electronics,Smart Watch V2,8900,3,26700,5786.92,20913.08,VIP,Credit Card,3,No
+TXN-20241209,10/30/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,1512.92,7387.08,Regular,Credit Card,5,No
+TXN-20241270,10/30/2024,Chiang Mai,Home & Living,Desk Lamp,790,2,1580,79,1501,VIP,QR Code,4,No
+TXN-20240294,10/31/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,15158.95,74841.05,Regular,QR Code,4,No
+TXN-20240588,10/31/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,2,37000,6235.63,30764.37,Regular,Credit Card,4,No
+TXN-20240851,10/31/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,3,5400,0,5400,Member,QR Code,4,No
+TXN-20240944,10/31/2024,Chiang Mai,Electronics,Headphones Pro,5500,3,16500,2043.74,14456.26,Member,QR Code,4,No
+TXN-20241023,10/31/2024,Phuket,Electronics,Laptop Pro 14,45000,3,135000,26648.93,108351.07,VIP,QR Code,2,Yes
+TXN-20241417,10/31/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,3685.14,14814.86,Regular,QR Code,5,No
+TXN-20240063,11/1/2024,Khon Kaen,Home & Living,Desk Lamp,790,4,3160,0,3160,Regular,Credit Card,4,No
+TXN-20240150,11/1/2024,Chiang Mai,Electronics,Headphones Pro,5500,2,11000,1813.22,9186.78,Regular,QR Code,1,No
+TXN-20240204,11/1/2024,Chiang Mai,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,QR Code,1,No
+TXN-20240363,11/2/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,QR Code,1,No
+TXN-20240621,11/2/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,8806.46,36193.54,VIP,QR Code,5,No
+TXN-20240953,11/2/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4056.79,20943.21,Member,Credit Card,2,Yes
+TXN-20241133,11/2/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,9769.89,35230.11,VIP,Cash,3,No
+TXN-20241271,11/2/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,2,50000,8615.22,41384.78,Member,Cash,5,No
+TXN-20240052,11/3/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4753.42,20246.58,Regular,Cash,4,No
+TXN-20240101,11/3/2024,Chiang Mai,Electronics,Tablet Air,18500,2,37000,4098.67,32901.33,Regular,Cash,3,No
+TXN-20240151,11/3/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6435.09,38564.91,Regular,Cash,4,No
+TXN-20240158,11/3/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,2912.19,15587.81,Regular,Cash,4,No
+TXN-20240353,11/3/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,1,45000,6929.69,38070.31,Regular,Credit Card,4,No
+TXN-20240732,11/3/2024,Bangkok Main,Home & Living,Air Purifier,4200,3,12600,0,12600,Regular,Cash,3,No
+TXN-20240974,11/3/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,734.95,4765.05,Regular,Cash,2,Yes
+TXN-20241095,11/3/2024,Khon Kaen,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,4,No
+TXN-20241243,11/3/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,14853.46,75146.54,Regular,Cash,3,Yes
+TXN-20240020,11/4/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,893.72,4606.28,VIP,QR Code,3,No
+TXN-20240643,11/4/2024,Phuket,Electronics,Headphones Pro,5500,5,27500,5562.46,21937.54,VIP,Cash,3,No
+TXN-20240991,11/4/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,1709.79,9290.21,VIP,Credit Card,3,No
+TXN-20240992,11/4/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,0,890,Regular,QR Code,5,No
+TXN-20241047,11/4/2024,Chiang Mai,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,QR Code,5,No
+TXN-20241300,11/4/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,4,No
+TXN-20241358,11/4/2024,Khon Kaen,Home & Living,Bed Sheet Set,1800,1,1800,90,1710,VIP,QR Code,5,No
+TXN-20240637,11/5/2024,Chiang Mai,Home & Living,Coffee Maker,3500,3,10500,525,9975,VIP,QR Code,3,No
+TXN-20241138,11/5/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,3,135000,22514.98,112485.02,Regular,Cash,4,No
+TXN-20241262,11/5/2024,Chiang Mai,Electronics,Smart Watch V2,8900,5,44500,7897.75,36602.25,Regular,Cash,4,No
+TXN-20240684,11/6/2024,Phuket,Electronics,Smart Watch V2,8900,1,8900,1999.23,6900.77,VIP,Credit Card,4,No
+TXN-20241394,11/6/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,601.55,4898.45,Regular,QR Code,3,No
+TXN-20240499,11/7/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,561.77,4938.23,Member,Credit Card,1,Yes
+TXN-20241386,11/7/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,3,No
+TXN-20240551,11/9/2024,Bangkok Main,Home & Living,Air Purifier,4200,4,16800,0,16800,Member,Credit Card,4,No
+TXN-20240903,11/9/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,3429.72,14370.28,Regular,Cash,3,No
+TXN-20240626,11/10/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,4512.97,20487.03,Member,Cash,5,No
+TXN-20240872,11/10/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1015.43,7884.57,Regular,Cash,4,No
+TXN-20240891,11/10/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,3,No
+TXN-20241083,11/10/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,3,No
+TXN-20241162,11/10/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Credit Card,3,No
+TXN-20241436,11/10/2024,Chiang Mai,Fashion,Leather Bag,3500,5,17500,0,17500,Regular,QR Code,4,No
+TXN-20240097,11/11/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,175,3325,VIP,QR Code,4,No
+TXN-20240395,11/11/2024,Chiang Mai,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,4,No
+TXN-20240618,11/11/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,Cash,5,No
+TXN-20240737,11/11/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,13806.96,76193.04,Regular,Cash,5,No
+TXN-20240858,11/11/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,910.96,4589.04,Member,QR Code,3,No
+TXN-20241055,11/11/2024,Khon Kaen,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,QR Code,4,No
+TXN-20241269,11/11/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Cash,4,No
+TXN-20240438,11/12/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,7066.4,29933.6,VIP,Credit Card,4,No
+TXN-20240502,11/12/2024,Chiang Mai,Fashion,Sneakers Run,2500,1,2500,0,2500,Regular,QR Code,4,No
+TXN-20240672,11/12/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,2,90000,17068.99,72931.01,Member,QR Code,1,No
+TXN-20240825,11/12/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,5,No
+TXN-20241060,11/12/2024,Bangkok Sathorn,Fashion,Summer T-Shirt,450,1,450,0,450,Regular,QR Code,4,No
+TXN-20241384,11/12/2024,Chiang Mai,Fashion,Denim Jeans,1200,1,1200,60,1140,VIP,Credit Card,5,No
+TXN-20240320,11/13/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,Cash,2,No
+TXN-20240405,11/13/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,210,3990,VIP,Cash,5,No
+TXN-20241086,11/13/2024,Bangkok Main,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Credit Card,4,No
+TXN-20241293,11/13/2024,Chiang Mai,Electronics,Headphones Pro,5500,1,5500,571.79,4928.21,Member,Cash,1,Yes
+TXN-20240111,11/14/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,2,1580,0,1580,Member,QR Code,5,No
+TXN-20240224,11/14/2024,Khon Kaen,Electronics,Laptop Pro 14,45000,3,135000,21756.47,113243.53,Regular,Cash,1,Yes
+TXN-20240493,11/14/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,1,45000,7637.62,37362.38,Regular,QR Code,4,No
+TXN-20240601,11/14/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,1124.45,7775.55,Member,Credit Card,5,No
+TXN-20240663,11/14/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,4947.72,32052.28,Regular,Credit Card,5,Yes
+TXN-20240703,11/14/2024,Chiang Mai,Electronics,Tablet Air,18500,3,55500,7836.13,47663.87,Regular,QR Code,4,No
+TXN-20241134,11/14/2024,Bangkok Main,Electronics,Smart Watch V2,8900,2,17800,2041.52,15758.48,Regular,Cash,4,No
+TXN-20240166,11/15/2024,Phuket,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,Credit Card,4,No
+TXN-20240439,11/15/2024,Phuket,Electronics,Smart Watch V2,8900,3,26700,4781.85,21918.15,Regular,Credit Card,4,No
+TXN-20240873,11/15/2024,Chiang Mai,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Cash,4,No
+TXN-20241279,11/15/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,4,22000,3310.91,18689.09,Member,Cash,1,Yes
+TXN-20241462,11/15/2024,Phuket,Fashion,Denim Jeans,1200,2,2400,0,2400,Regular,Credit Card,3,No
+TXN-20240281,11/16/2024,Phuket,Electronics,Tablet Air,18500,3,55500,10757.97,44742.03,Regular,QR Code,4,No
+TXN-20240863,11/16/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,5,9000,0,9000,Regular,Credit Card,3,No
+TXN-20240948,11/16/2024,Chiang Mai,Home & Living,Air Purifier,4200,1,4200,210,3990,VIP,QR Code,4,No
+TXN-20241301,11/16/2024,Bangkok Sathorn,Electronics,Tablet Air,18500,1,18500,3538.45,14961.55,Regular,Credit Card,5,No
+TXN-20240199,11/17/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1831.16,7068.84,VIP,Cash,5,No
+TXN-20240602,11/17/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,90,1710,VIP,Credit Card,4,No
+TXN-20240691,11/17/2024,Bangkok Sathorn,Fashion,Formal Shirt,890,2,1780,0,1780,Member,Credit Card,4,No
+TXN-20240759,11/17/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,996.61,4503.39,Member,Credit Card,5,No
+TXN-20241004,11/17/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Cash,4,No
+TXN-20241024,11/17/2024,Chiang Mai,Fashion,Formal Shirt,890,2,1780,0,1780,Regular,Credit Card,4,No
+TXN-20241129,11/17/2024,Bangkok Main,Home & Living,Coffee Maker,3500,4,14000,0,14000,Member,Cash,3,No
+TXN-20240034,11/18/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,4,No
+TXN-20240209,11/18/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,1041.25,4458.75,Regular,Cash,2,Yes
+TXN-20240763,11/18/2024,Chiang Mai,Electronics,Tablet Air,18500,3,55500,7100.41,48399.59,Regular,Credit Card,1,Yes
+TXN-20240528,11/19/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,0,1200,Member,Cash,4,No
+TXN-20240766,11/19/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,0,3500,Member,Cash,1,No
+TXN-20241292,11/19/2024,Chiang Mai,Home & Living,Ceramic Vase,550,2,1100,0,1100,Regular,QR Code,3,No
+TXN-20240839,11/20/2024,Chiang Mai,Fashion,Summer T-Shirt,450,2,900,0,900,Member,QR Code,4,No
+TXN-20240870,11/20/2024,Chiang Mai,Fashion,Sneakers Run,2500,3,7500,0,7500,Regular,Credit Card,4,No
+TXN-20241213,11/20/2024,Chiang Mai,Electronics,Tablet Air,18500,4,74000,11830.14,62169.86,Member,Credit Card,2,No
+TXN-20241412,11/20/2024,Chiang Mai,Electronics,Smartphone X1,25000,1,25000,3113.79,21886.21,Regular,Cash,5,No
+TXN-20240047,11/21/2024,Khon Kaen,Electronics,Headphones Pro,5500,2,11000,2000.28,8999.72,Regular,Credit Card,2,Yes
+TXN-20240173,11/21/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,3,7500,0,7500,Regular,QR Code,4,No
+TXN-20240242,11/21/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4294.82,20705.18,Member,Credit Card,4,No
+TXN-20241399,11/21/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,8884.03,41115.97,Regular,QR Code,3,No
+TXN-20240482,11/22/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1381.03,7518.97,Regular,Cash,5,No
+TXN-20240591,11/22/2024,Phuket,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,Credit Card,5,No
+TXN-20241000,11/22/2024,Bangkok Main,Fashion,Denim Jeans,1200,2,2400,0,2400,Member,Cash,4,No
+TXN-20241147,11/22/2024,Chiang Mai,Home & Living,Ceramic Vase,550,1,550,0,550,Member,QR Code,5,No
+TXN-20240113,11/23/2024,Khon Kaen,Fashion,Sneakers Run,2500,2,5000,0,5000,Member,QR Code,5,No
+TXN-20240582,11/23/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,8532.86,36467.14,Regular,Credit Card,4,No
+TXN-20240695,11/23/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,983.29,4516.71,Member,QR Code,2,Yes
+TXN-20240912,11/23/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1785.73,7114.27,VIP,Credit Card,5,No
+TXN-20240109,11/24/2024,Khon Kaen,Fashion,Sneakers Run,2500,2,5000,0,5000,Regular,QR Code,1,No
+TXN-20240958,11/24/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1120.08,7779.92,Regular,QR Code,1,Yes
+TXN-20241433,11/24/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,2,1580,0,1580,Regular,Credit Card,5,No
+TXN-20241464,11/24/2024,Khon Kaen,Fashion,Formal Shirt,890,1,890,0,890,Regular,Credit Card,3,No
+TXN-20240089,11/25/2024,Bangkok Main,Electronics,Smartphone X1,25000,3,75000,12124.93,62875.07,Regular,Cash,5,No
+TXN-20240613,11/25/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,691.23,4808.77,Regular,Credit Card,1,No
+TXN-20240625,11/25/2024,Chiang Mai,Electronics,Headphones Pro,5500,3,16500,2630.33,13869.67,Member,Credit Card,4,No
+TXN-20240857,11/25/2024,Khon Kaen,Electronics,Headphones Pro,5500,2,11000,1127.55,9872.45,Regular,QR Code,3,Yes
+TXN-20241078,11/25/2024,Chiang Mai,Fashion,Leather Bag,3500,2,7000,0,7000,Member,QR Code,4,No
+TXN-20241100,11/25/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Cash,2,No
+TXN-20241317,11/25/2024,Bangkok Sathorn,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Cash,4,No
+TXN-20241375,11/25/2024,Chiang Mai,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,4,No
+TXN-20240180,11/26/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,2,7000,0,7000,Member,Cash,4,No
+TXN-20240269,11/26/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,1000.6,4499.4,Member,QR Code,4,No
+TXN-20240425,11/26/2024,Bangkok Main,Fashion,Leather Bag,3500,3,10500,0,10500,Regular,Cash,2,No
+TXN-20240521,11/26/2024,Phuket,Electronics,Tablet Air,18500,2,37000,7111.62,29888.38,Regular,QR Code,1,No
+TXN-20240802,11/26/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Member,QR Code,3,No
+TXN-20240926,11/26/2024,Bangkok Main,Electronics,Tablet Air,18500,3,55500,8375.56,47124.44,Regular,Cash,5,No
+TXN-20241094,11/26/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,10033.4,79966.6,Member,QR Code,3,No
+TXN-20240011,11/27/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Credit Card,3,No
+TXN-20240326,11/27/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,3,No
+TXN-20240331,11/27/2024,Phuket,Fashion,Leather Bag,3500,1,3500,0,3500,Regular,Credit Card,5,No
+TXN-20240448,11/27/2024,Bangkok Main,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,4,No
+TXN-20240634,11/27/2024,Bangkok Sathorn,Electronics,Smartphone X1,25000,1,25000,3501.21,21498.79,Member,Credit Card,5,No
+TXN-20240830,11/27/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,3,26700,2986.66,23713.34,Member,QR Code,1,Yes
+TXN-20240849,11/27/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,1,8900,1183.34,7716.66,Regular,QR Code,4,No
+TXN-20240155,11/28/2024,Bangkok Sathorn,Home & Living,Coffee Maker,3500,2,7000,0,7000,Regular,Credit Card,4,No
+TXN-20240279,11/28/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1625.04,7274.96,Regular,QR Code,3,No
+TXN-20240730,11/28/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Cash,3,Yes
+TXN-20240783,11/28/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,27.5,522.5,VIP,Cash,4,No
+TXN-20240798,11/28/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,5537.4,31462.6,Regular,Cash,3,No
+TXN-20240044,11/29/2024,Phuket,Electronics,Tablet Air,18500,1,18500,3124.3,15375.7,Regular,QR Code,4,No
+TXN-20240156,11/29/2024,Phuket,Electronics,Tablet Air,18500,1,18500,2496.43,16003.57,Regular,QR Code,5,No
+TXN-20240196,11/29/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,3,No
+TXN-20240365,11/29/2024,Phuket,Home & Living,Coffee Maker,3500,1,3500,175,3325,VIP,Credit Card,4,No
+TXN-20240721,11/29/2024,Bangkok Main,Fashion,Leather Bag,3500,2,7000,0,7000,Member,Credit Card,5,No
+TXN-20240962,11/29/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1485.01,7414.99,Member,Cash,4,No
+TXN-20241285,11/29/2024,Bangkok Main,Electronics,Smartphone X1,25000,5,125000,23628.89,101371.11,Regular,QR Code,5,No
+TXN-20241327,11/29/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,624.78,4875.22,Regular,QR Code,4,No
+TXN-20240272,11/30/2024,Khon Kaen,Electronics,Smartphone X1,25000,2,50000,11919.47,38080.53,VIP,Cash,1,Yes
+TXN-20241398,11/30/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,2267.69,16232.31,Member,Credit Card,4,No
+TXN-20240406,12/1/2024,Khon Kaen,Electronics,Tablet Air,18500,5,92500,17879.34,74620.66,Member,Cash,5,No
+TXN-20240459,12/1/2024,Bangkok Main,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Regular,Credit Card,4,No
+TXN-20241314,12/1/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,2,3600,0,3600,Regular,Credit Card,4,No
+TXN-20240198,12/2/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,813.24,4686.76,Regular,QR Code,3,Yes
+TXN-20240330,12/2/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,7464.58,42535.42,Regular,Credit Card,4,No
+TXN-20241151,12/2/2024,Chiang Mai,Home & Living,Air Purifier,4200,2,8400,0,8400,Regular,QR Code,2,No
+TXN-20240148,12/3/2024,Bangkok Sathorn,Fashion,Sneakers Run,2500,3,7500,1125,6375,Regular,QR Code,4,No
+TXN-20241240,12/3/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4027,20973,Regular,QR Code,4,No
+TXN-20240260,12/4/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Regular,Cash,4,No
+TXN-20240555,12/4/2024,Khon Kaen,Home & Living,Coffee Maker,3500,1,3500,0,3500,Regular,Credit Card,4,No
+TXN-20240741,12/4/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,7250.76,37749.24,Regular,Cash,4,No
+TXN-20240758,12/4/2024,Bangkok Main,Home & Living,Ceramic Vase,550,1,550,0,550,Member,Credit Card,2,No
+TXN-20240878,12/4/2024,Bangkok Main,Electronics,Headphones Pro,5500,1,5500,561.14,4938.86,Regular,Cash,5,No
+TXN-20241265,12/4/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,4,3160,0,3160,Regular,Credit Card,3,No
+TXN-20241475,12/4/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,2804.59,14995.41,Regular,Credit Card,2,No
+TXN-20240038,12/5/2024,Bangkok Main,Home & Living,Ceramic Vase,550,2,1100,0,1100,Member,QR Code,3,No
+TXN-20240082,12/5/2024,Chiang Mai,Home & Living,Desk Lamp,790,2,1580,79,1501,VIP,QR Code,4,No
+TXN-20240344,12/5/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,1450.08,9549.92,Regular,Cash,3,No
+TXN-20240417,12/5/2024,Chiang Mai,Fashion,Summer T-Shirt,450,3,1350,202.5,1147.5,Regular,Credit Card,5,No
+TXN-20241154,12/5/2024,Chiang Mai,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,3,No
+TXN-20241191,12/5/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,QR Code,5,No
+TXN-20241348,12/5/2024,Bangkok Sathorn,Home & Living,Desk Lamp,790,1,790,0,790,Regular,Cash,4,No
+TXN-20240009,12/6/2024,Phuket,Home & Living,Ceramic Vase,550,1,550,0,550,Regular,Credit Card,4,No
+TXN-20240013,12/6/2024,Khon Kaen,Electronics,Smart Watch V2,8900,3,26700,4825.41,21874.59,Regular,QR Code,1,No
+TXN-20240240,12/6/2024,Chiang Mai,Home & Living,Ceramic Vase,550,5,2750,0,2750,Member,Credit Card,4,No
+TXN-20240333,12/6/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,2408.64,16091.36,Regular,QR Code,4,No
+TXN-20240461,12/6/2024,Bangkok Main,Electronics,Tablet Air,18500,1,18500,2490.27,16009.73,Regular,Cash,4,No
+TXN-20240486,12/6/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,375,2125,Regular,Cash,4,No
+TXN-20240828,12/6/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,3203.35,15296.65,Regular,Cash,5,No
+TXN-20240946,12/6/2024,Chiang Mai,Fashion,Denim Jeans,1200,2,2400,360,2040,Regular,Cash,4,No
+TXN-20241283,12/6/2024,Khon Kaen,Electronics,Headphones Pro,5500,3,16500,2827.53,13672.47,Regular,Credit Card,5,No
+TXN-20241389,12/7/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,3282.17,15217.83,Member,QR Code,4,No
+TXN-20241022,12/8/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,7732.47,37267.53,VIP,Cash,2,Yes
+TXN-20241026,12/8/2024,Bangkok Main,Electronics,Headphones Pro,5500,2,11000,1926.1,9073.9,Regular,QR Code,4,No
+TXN-20241232,12/8/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,10060.34,79939.66,Regular,QR Code,4,No
+TXN-20241238,12/8/2024,Bangkok Sathorn,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,Credit Card,4,No
+TXN-20240268,12/9/2024,Phuket,Home & Living,Coffee Maker,3500,3,10500,0,10500,Regular,Credit Card,4,No
+TXN-20240455,12/9/2024,Bangkok Sathorn,Electronics,Smart Watch V2,8900,2,17800,1922.29,15877.71,Member,QR Code,3,No
+TXN-20240769,12/9/2024,Chiang Mai,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,3,No
+TXN-20240984,12/9/2024,Phuket,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Member,Credit Card,3,No
+TXN-20241381,12/9/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1526.94,7373.06,Regular,Credit Card,3,No
+TXN-20240321,12/10/2024,Bangkok Main,Home & Living,Desk Lamp,790,1,790,0,790,Regular,QR Code,4,No
+TXN-20240620,12/10/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,3276.16,14523.84,Regular,QR Code,3,No
+TXN-20240915,12/10/2024,Phuket,Electronics,Headphones Pro,5500,1,5500,778.78,4721.22,Regular,Cash,3,No
+TXN-20241210,12/10/2024,Bangkok Main,Home & Living,Coffee Maker,3500,1,3500,0,3500,Member,Credit Card,4,No
+TXN-20241221,12/10/2024,Chiang Mai,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,Credit Card,5,No
+TXN-20241277,12/10/2024,Chiang Mai,Electronics,Tablet Air,18500,1,18500,2561.95,15938.05,Regular,Cash,5,No
+TXN-20241391,12/10/2024,Phuket,Electronics,Tablet Air,18500,2,37000,7243.71,29756.29,Regular,Cash,4,No
+TXN-20241447,12/10/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1513.46,7386.54,Regular,Credit Card,1,No
+TXN-20240328,12/11/2024,Bangkok Main,Home & Living,Bed Sheet Set,1800,1,1800,0,1800,Regular,Cash,3,Yes
+TXN-20240772,12/11/2024,Bangkok Main,Electronics,Smartphone X1,25000,2,50000,6405.45,43594.55,Regular,Cash,4,No
+TXN-20241282,12/11/2024,Bangkok Sathorn,Electronics,Laptop Pro 14,45000,1,45000,5080.41,39919.59,Regular,Credit Card,1,Yes
+TXN-20241414,12/11/2024,Khon Kaen,Electronics,Tablet Air,18500,1,18500,2617.47,15882.53,Member,QR Code,3,Yes
+TXN-20240138,12/12/2024,Phuket,Electronics,Smartphone X1,25000,1,25000,2690.24,22309.76,Member,Cash,5,No
+TXN-20240339,12/12/2024,Khon Kaen,Electronics,Headphones Pro,5500,1,5500,1166.08,4333.92,VIP,Cash,3,No
+TXN-20240778,12/12/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,14375.7,75624.3,Regular,Credit Card,4,No
+TXN-20240845,12/12/2024,Chiang Mai,Electronics,Smart Watch V2,8900,1,8900,1743.44,7156.56,Regular,QR Code,3,No
+TXN-20241339,12/12/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,2,90000,21660.46,68339.54,VIP,QR Code,1,No
+TXN-20240275,12/13/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,Credit Card,4,No
+TXN-20240624,12/13/2024,Bangkok Main,Fashion,Denim Jeans,1200,1,1200,180,1020,Member,Cash,5,No
+TXN-20240431,12/14/2024,Chiang Mai,Home & Living,Air Purifier,4200,1,4200,0,4200,Regular,QR Code,3,No
+TXN-20240434,12/14/2024,Phuket,Home & Living,Air Purifier,4200,1,4200,0,4200,Member,Cash,4,No
+TXN-20240544,12/14/2024,Chiang Mai,Electronics,Laptop Pro 14,45000,1,45000,5643.5,39356.5,Regular,QR Code,1,No
+TXN-20241008,12/14/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,QR Code,4,No
+TXN-20240761,12/15/2024,Chiang Mai,Fashion,Leather Bag,3500,1,3500,525,2975,Regular,Cash,5,No
+TXN-20241027,12/15/2024,Bangkok Main,Electronics,Smart Watch V2,8900,1,8900,1657.87,7242.13,Member,Credit Card,4,No
+TXN-20241219,12/15/2024,Bangkok Sathorn,Electronics,Headphones Pro,5500,1,5500,1034.08,4465.92,Member,QR Code,1,Yes
+TXN-20240416,12/16/2024,Chiang Mai,Fashion,Denim Jeans,1200,2,2400,360,2040,Regular,QR Code,5,No
+TXN-20240884,12/16/2024,Chiang Mai,Electronics,Smart Watch V2,8900,2,17800,2642.46,15157.54,Regular,Cash,1,No
+TXN-20240965,12/16/2024,Phuket,Electronics,Tablet Air,18500,1,18500,2755.89,15744.11,Regular,Cash,5,No
+TXN-20240993,12/16/2024,Chiang Mai,Fashion,Denim Jeans,1200,2,2400,360,2040,Regular,Credit Card,4,No
+TXN-20240131,12/17/2024,Bangkok Main,Electronics,Smartphone X1,25000,1,25000,4200.48,20799.52,Member,QR Code,3,No
+TXN-20241211,12/17/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,4352.9,32647.1,Regular,Cash,3,Yes
+TXN-20241388,12/17/2024,Chiang Mai,Fashion,Leather Bag,3500,4,14000,2100,11900,Regular,Cash,4,No
+TXN-20240091,12/18/2024,Bangkok Main,Electronics,Laptop Pro 14,45000,2,90000,9238.19,80761.81,Member,Cash,5,No
+TXN-20240134,12/18/2024,Chiang Mai,Fashion,Summer T-Shirt,450,1,450,67.5,382.5,Regular,Cash,5,No
+TXN-20240169,12/18/2024,Phuket,Electronics,Tablet Air,18500,2,37000,6861.25,30138.75,Member,QR Code,4,No
+TXN-20240954,12/18/2024,Bangkok Main,Fashion,Sneakers Run,2500,1,2500,375,2125,Member,Credit Card,4,No
+TXN-20241161,12/18/2024,Phuket,Electronics,Laptop Pro 14,45000,2,90000,12466.59,77533.41,Regular,Cash,4,No
+TXN-20241347,12/18/2024,Phuket,Electronics,Laptop Pro 14,45000,1,45000,8253.62,36746.38,Regular,Cash,5,No
+TXN-20240115,12/19/2024,Khon Kaen,Fashion,Sneakers Run,2500,2,5000,750,4250,Regular,Credit Card,1,No
+TXN-20240185,12/19/2024,Bangkok Main,Electronics,Tablet Air,18500,2,37000,5644.46,31355.54,Regular,Cash,5,No
+TXN-20240668,12/19/2024,Khon Kaen,Electronics,Smart Watch V2,8900,1,8900,1132.82,7767.18,Regular,QR Code,4,No
+TXN-20240680,12/19/2024,Bangkok Main,Fashion,Formal Shirt,890,1,890,133.5,756.5,Regular,Cash,3,No
+TXN-20240760,12/19/2024,Phuket,Home & Living,Coffee Maker,3500,2,7000,0,7000,Member,Credit Card,2,No
+TXN-20240777,12/19/2024,Chiang Mai,Electronics,Smartphone X1,25000,3,75000,13038.05,61961.95,VIP,QR Code,1,Yes
+TXN-20240970,12/19/2024,Bangkok Main,Electronics,Tablet Air,18500,3,55500,11059.99,44440.01,Regular,Cash,4,No
